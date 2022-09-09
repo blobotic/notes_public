@@ -9,7 +9,7 @@
 - [5. Disasters of the Fourteenth Century](#5-disasters-of-the-fourteenth-century)
 
 ## 2. The Early Middle Ages: The Formation of Europe
-[Top](#table-of-contents)
+[Top](#unit-1-early-modern-and-medieval-europe)
 
 Ancient times:
 - Africa was Tunisia-Algeria
@@ -130,10 +130,10 @@ Modern Europe had taken shape by 1000:
 - the east Slavs, Russians, diverged from the West, christianized by Byzantine missionaries
 
 ## 3. The High Middle Ages: Secular Civilization
-[Top](#table-of-contents)
+[Top](#unit-1-early-modern-and-medieval-europe)
 
 ## 4. The High Middle Ages: The Church
-[Top](#table-of-contents)
+[Top](#unit-1-early-modern-and-medieval-europe)
 
 ## 5. Disasters of the Fourteenth Century
-[Top](#table-of-contents)
+[Top](#unit-1-early-modern-and-medieval-europe)
