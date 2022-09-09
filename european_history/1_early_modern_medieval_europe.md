@@ -1,6 +1,15 @@
-# Unit 1
+# Unit 1: Early Modern and Medieval Europe
+
+*R.R. Palmer*, *Jeol Colton*. A History of the Modern World, 8th ed.
+
+## Table of Contents:
+- [2. The Early Middle Ages: The Formation of Europe](#2-the-early-middle-ages-the-formation-of-europe)
+- [3. The High Middle Ages: Secular Civilization](#3-the-high-middle-ages-secular-civilization)
+- [4. The High Middle Ages: The Church](#4-the-high-middle-ages-the-church)
+- [5. Disasters of the Fourteenth Century](#5-disasters-of-the-fourteenth-century)
 
 ## 2. The Early Middle Ages: The Formation of Europe
+[Top](#table-of-contents)
 
 Ancient times:
 - Africa was Tunisia-Algeria
@@ -119,3 +128,12 @@ Modern Europe had taken shape by 1000:
 - Denmark, Norway, and Sweden had taken form
 - three kingdoms of Poland (Slavic), Bohemia (Slavic), Hungary (Magyar), all Latin and Catholic in culture and religion and Western in orientation
 - the east Slavs, Russians, diverged from the West, christianized by Byzantine missionaries
+
+## 3. The High Middle Ages: Secular Civilization
+[Top](#table-of-contents)
+
+## 4. The High Middle Ages: The Church
+[Top](#table-of-contents)
+
+## 5. Disasters of the Fourteenth Century
+[Top](#table-of-contents)
