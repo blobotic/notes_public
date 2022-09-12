@@ -132,6 +132,120 @@ Modern Europe had taken shape by 1000:
 ## 3. The High Middle Ages: Secular Civilization
 [Top](#unit-1-early-modern-and-medieval-europe)
 
+### Changes after AD 1000
+
+All the major cities of Europe before the modern industrial era sprang up between 1050-1200
+The population of western Europe steadily grew from 1000-1300, which, along with agricultural changes, brought about the High Middle Ages, a period of rapid progress in secular matters
+- after Norse and Magyar invasions ceased, Europe became more secure, so there was more planting and building
+- a heavier plow, better harnesses, and windmills were invented
+	- a characteristic of European civilization: a faculty for invention, a quest for new sources of energy
+- people worked harder and obtained more results in kind
+- slavery gradually disappeared, serfdom replacing it, since white slaves were usually war prisoners from unchristianized tribes
+
+People became less isolated
+- communications improved
+- bridges rwere built across rivers
+- settlers filled the wilderness that separated inhabited areas
+- land cleared, people clustered in village communities
+- "three-field" system: two parts were sowed, one was left fallow, rotating, to avoid soil exhaustion
+	- increase in supply of food
+
+Feudalism - increased peace and personal security necessary for agriculture
+- "counts" governed territories of a few hundred square miles, maintaining control over lesser lords who possessed a few hundred/thousand acres, becoming the "lord"'s vassals
+- the lord provided protection and justice and guaranteed that the rightful heirs of the vassals would inherit in due time
+- vassal agreed to serve lord in the army for a certain number of days in the year, to attend and advise him in his court in the judging of disputes, and paying fees when inheriting an estate or when heirs were in wardship
+- later, lords at the level of counts became vassalsof dukes
+- 987: the great lords of France chose Hugh Capet as their king, becoming his vassals
+	- French kings enjoyed little real power, but his descendants reigned until the French Revolution in the 18th century
+- 911: magnates of Germany elected a king
+	- 962: German king crowned emperor, creating the HRE
+- 1066: William, the Duke of Normandy, conquered England and imposed a centralized and efficient type of feudalism developed in Normandy (unelected)
+	- more civil peace and authority than the continent
+- characterized by its mutual/reciprocal character, rather than an all-powerful sovereign, which also where ideas of constitutional government later developed
+- applied only to the military or noble class
+- peasantry: villages, with its people and surrounding farmlands, constituted a "manor" of a lord, who were serfs and "bound to the soil"
+	- the lord owed them protection and justice, the serfs worked his land and gave him part of the produce
+
+Increased agricultural efficiency led to a surplus of food, then to population, then to the development of towns
+
+### The Rise of Towns and Commerce
+
+In the 9th and 10th centuries, most of the ancient cities had vanished
+- no commercial centers or merchant class
+- Eastern or Jewish traders occasionally came, bringing Eastern silks, spices, and Judaism, as well as channels of distant communication
+
+Long-distance trade developed first, followed by bustling local trade:
+- Venice was founded in AD 570 when barbarian refugees settled in its islands
+	- brought Eastern goods up the Adriatic to sell to central European traders
+- Flanders, Belgium, manufacturers of woolen cloth developed
+- these goods couldn't be produced locally yet were widely in demand, so merchants traveled
+- money came back into more general circulation, merchants established permanent headquarters, craftsmen moved to these growing centers
+
+By 1100, local centers existed from all over Europe, about every 20-30 miles, ranging from a few hundred to thousands of inhabitants
+- merchants and craftsmen didn't want to remain subject to neighboring feudal lords since they couldn't protect them and could only extort them
+- they developed their own laws of their own and tried to set themselves up as self-governing little republics
+- emancipation most successful where towns were the largest and closest together along trade routes (north Italy, Danube and Rhine rivers, Flanders, Baltic coast)
+	- Venice, Genoia, Pisa, Florence, Milan became virtually independent city-states
+	- Bruges and Ghent in Flanders
+	- Nuremberg, Frankfurt, Augsburg, Strasbourg, Hamburg, and Lubeck became free cities, only owing allegiance to an ineffective distant emperor
+	- in France and England, less independence but received charters of liberties from the king, right to have their own governments, officials, courts, and laws, and to pay their own taxes to the king
+- towns formed leagues/federations
+	- Hanse: formed of German towns and dominated the commerce of the North Sea and the Baltic until the 1300s
+	- kings in England, France, and Spain repressed these
+	- becaues Italy, Germany, and the Netherlands were more commercially advanced than the Atlantic countries, they had a more intensive town life and resisted political unification, only creating nationwide states in 1860/1870
+
+Independence in towns:
+- Townsmen didn't possess individual rights, only those from being a resident
+	- personal liberty (freedom from serfdom)
+	- no one wanted individual liberty, instead wanting common solidarity, evidenced by the walls that protected the towns and gradually were built further out
+- economic solidarity
+	- neighboring peasants could only sell in the town marketplace to protect their food supply from competitions
+	- forbade certain trades to be carried out in the country to force peasants to make purchases in town and protect town craftsmen
+	- tariffs and tolls on the goods of other towns/merchants
+	- coined their own money, particularly in Italy and Germany
+- merchants and craftsmen formed "guilds"
+	- guaranteed that work would be done by reliable and experience craftsmen and provided a means of vocational education for young men (boys would become apprentices, then become journeymen, who were qualified and recognized workers, and, if lucky, become masters themselves)
+	- by the 1300s, guilds became frozen and masters became reluctant to admit others
+	- masters preserved their reputation, divided work, fixed the terms of apprenticeship, wages paid to journeymen, and the prices of goods, and tried to regulate competition from nearby towns (people hated competition or the idea of working for monetary profit)
+
+Towns widely influenced the country & freedom in it:
+- emancipating influence
+- increased the demand for food, so lords cleaered new lands (development of an internal frontier)
+- lords offered freer terms for peasants who settled on new lands, serfdom became harder to justify when nearby villages were free
+- peasants began earning money and lords wanted money to purchase goods in towns
+- peasants obtained personal freedom in exchange for an annual monetary payment to the lord for an indefinite period
+- serfdom began to disappear by the 12th century, and by the 15th it had disappeared from most of western Europe
+
+### The Growth of National Monarchies
+
+Kings tried to build their kingdoms to outlast them
+- monarchy became hereditary because elections were typically turbulent and disputed
+- kings sent out executive officers to supervise (sheriffs, bailiffs) and instituted royal courts under royal justices to decide property disputes and repress crime (main pillar of royal power, along with military might to enforce these judgments)
+- England: development of the jury by requiring local inhabitatns to assist royal judges, putting them on oath
+- kings needed money but taxation as in Rome was unknown to the Germanic and feudal tradition
+	- some towns agreed to make certain payments in return for their royal charters
+	- royal demands for money constantly grew and were met with resistance in all countries
+	- Magna Carta in England in 1215: a group of English lords and high churchmen and representatives of London required King John to confirm and guarantee their historic liberties
+- kings held a royal council/court with their vassals, from which departments of governments were birthed
+	- royal judiciary, exchequer, military command, parliaments (as representatives of towns began to be summoned to the king's "talks" with his chief retainers)
+	- rise of the "burghers", who had inferior dignity to lords and bishops but were too stubborn, free-spirited, and rich to be overlooked
+- parliaments meant initially to publicize and strengthen royal rule but usually invited the parliament to state grievances, beginning the tradition of parliamentary legislation
+	- parliaments represented the "estates of the realm"
+		- first and highest: clergy
+		- second: landed/noble class
+		- third: burghers of the chartered towns
+	- England, Poland, and Hungary: the clergy ceased to be represented, the bishops sitting with the lay magnates in an upper house
+	- Poland, Bohemia, and Hungary: the burghers dropped out
+	- Castile and Wurttemberg: the noble estate eventually refused to attend parliament
+	- Scandinavia, Switzerland, and in the French Estates General: peasants were allowed to have delegates
+	- England: the Parliament split into two houses, the Lords (great prelates and lay magnates) and the Commons (lesser landholders aka small nobles, representatives of towns)
+		- becaues the Commons was made up of "knights and burgesses", or gentry and townsmen, added to its strength because the middle class was too weak to act alone
+		- this helped root representative institutions in England when they died out later in other nations
+		- additionally, since England was so small, with the north mostly wilderness, there were no provincial/local parliamentary bodies to dispute the power of the central body
+		- elected members of the House of Commons obtained early on the power to commit their constituents (those who elected them had to pay the taxes they voted), wit hvotes being binding, so Parliament excercised powers as well as rights
+	- the idea of representative government, that had never truly appeared before
+
+
 ## 4. The High Middle Ages: The Church
 [Top](#unit-1-early-modern-and-medieval-europe)
 
