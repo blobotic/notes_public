@@ -2,7 +2,7 @@
 
 ## Table of Contents:
 - [*David Myers*. Subfields in Psychology](#david-myers-subfields-in-psychology)
-- [The Evolution of Psychology: History, Approaches, and Questions](#the-evolution-of-psyhcology-history-approaches-and-questions)
+- [The Evolution of Psychology: History, Approaches, and Questions](#the-evolution-of-psychology-history-approaches-and-questions)
 - [Freud](#freud)
 - [*David Myers*. Approaches and Psychology in the Real World](#david-myers-approaches-and-psychology-in-the-real-world)
 - [*Robert Sapolsky*. Behave Intro](#robert-sapolsky-behave-intro)
@@ -80,6 +80,124 @@ Other:
 
 ## The Evolution of Psychology: History, Approaches, and Questions
 [Top](#unit-1-history-and-approaches)
+
+Change in the field of psychology
+- moved from speculation about behavior toward a more objective and scientific approach as technology has improved
+- increasing influx of women into the field
+
+The most important approaches (schools) of psychology:
+| School | Description | Important contributors |
+| ------ | ----------- | ---------------------- |
+| Structuralism | Introspection to identify structures of psychological experience | Wilhelm Wundt, Edward B. Titchener |
+| Functionalism | why animals/humans have developed particular psychological aspects | William James |
+| Psychodynamic | role of unconscious thoughts/feelings/memories and early childhood | Sigmund Freud, Carl Jung, Alfred Adler, Erik Erickson |
+| Behaviorism | mind impossible to study, so only behavior should be studied | John B. Watson, B. F. Skinner |
+| Cognitive | study of mental processes (perception, thinking, memory, judgments) | Hermann Ebbinghaus, Sir Frederic Bartlett, Jean Piaget |
+| Social-cultural | social situations and how cultures influence thinking and behavior | Fritz Heider, Leon Festinger, Stanley Schachter |
+
+Famous philosophers:
+- Plato (428-347 BC), Greek - argued for nature
+- Aristotle (384-322 BC), Greek - argued for nurture
+	- tabula rasa - "empty slate"
+- Thomas Hobbes (1588-1679), English
+- Rene Descartes (1596-1650), French
+	- argued for free will, believing that the mind controls the body through the pineal gland (wrong)
+	- existence of innate natural abilities
+	- dissected animals
+	- nerves controlled the muscles
+	- dualism - the mind is different from the mechanical body
+- John Locke (1632-1704), English
+- Jean-Jacques Rousseau (1712-1778), French
+- Gustave Fechner (1801-1887), German - just noticeable difference, first empirical psychological measurement
+- Charles Darwin (1809-1882), British - natural selection, influenced functionalist school and evolutionary psychology
+- Wilhelm Wundt (1832-1920), German - structuralism and one of first psychology labs (Leipzig, Germany)
+- William James (1842-1910), American - functionalism, one of first psych labs (Harvard University)
+- Ivan Pavlov (1849-1936), Russian - classical conditioning
+- Hermann Ebbinghaus (1850-1909), German - remember lists of nonsense syllables
+- Sigmund Freud (1856-1939), Austrian - psychodynamic psychology
+- Edward Bradford Titchener (1867-1927), American - structuralism
+	- student of Wundt
+	- founded a laboratory at Cornell University
+- John B. Watson (1878-1958), American - behaviorism
+- Sir Frederic Bartlett (1886-1969), British - cognitive and social processes of memory
+- Jean Piaget (1896-19809), Swiss - cognitive developmetn in children
+- B. F. Skinner (1904-1990), American - behaviorism
+- Donald Broadbent (1926-1993), British - attention
+- Linda Bartoshuk, Daniel Kahneman, Elizabeth Loftus, George Miller, American - learning, memory, judgement, neuroscience
+- Mahzarin Banaji, Marilynn Brewer, Susan Fiske, Fritz Heider, Kurt Lewin, Stanley Schachter, Claude Steele, Harry Triandis, American - social-cultural
+
+Issues:
+- Nature vs nurture
+	- heritibility of characteristics (proportion of observed differences that is due to genetics)
+		- intelligence high heritability (0.85)
+		- extraversion is 0.50
+- Free will vs determinism
+- Accuracy vs inaccuracy (in human judgment)
+- Conscious vs unconscious processing 
+- Differences vs similarities (gender, culture, ethnicities, backgrounds, environments)
+
+Structuralism: identify basic elements/structures of psychological experience
+- create a periodic table of elements of sensations
+- used introspection: asking research participants to describe what they experience
+- reaction time instruments
+- Wundt discovered difference between the sensation and perception of a sitmulus
+- Tichtener claimed to have identified over 40,000 sensations
+- rigorous and scientific
+- limitations of introspection: subjective experiences
+
+Functionalism/evolutionary psychology: why humans and animals have developed the particular psychological aspects they currently possess
+- James: thinking only relevant to behavior
+- Charles Darwin's natural selection and its applications to psychology
+- today, functionalism is dead, but evolutionary psychology remains
+	- evolutionary psychology: applies Darwinian theory to behavior
+	- idea that many human psychological systems serve key adaptive functions
+- fitness: extent of which a characteristic helps an organism survive and reproduce at a higher rate
+- limitations: predictions are difficult to test, so we're just fitting data
+
+Psychodynamic psychology: understanding human behavior based on unconscious thoughts, feelings, and memories
+- Freud believed in the influence of painful childhood experiences that people couldn't remember
+- Carl Jung, Alfred Adler, Karen Horney, Erik Erikson - possible to help patients if unconscious drives can be remembered
+- psychoanalysis (talk therapy, dream analysis, etc)
+- exploration of sexual experiences
+
+Behaviorism: not possible to objectively study the mind, so study should be limited to behavior
+- the mind is a "black box" - stimuli and responses
+- Pavlov's dogs
+- Watson: Little Albert and the white rat
+- Skinner: rewards and reinforcements, theories on how to teach children and create more peaceful and productive societies
+
+Free will:
+- misperception of free will
+- more likely to believe when
+	- desire occurs immediately prior to the outcome
+	- thought consistent with outcome
+	- no other apparent causes for the behavior
+- different context in which we take ownership for our actions: successes and failures
+
+Cognitive psychology: studies mental processes (perception, thinking, memory, and judgment) 
+- began in ernest in the 1960s
+- Barlett studied the cognitive and social processes of remembering
+	- difficult to recall unexpected stories - memory is influenced by what we already know
+- behavior is not sufficient because people interpret the stimuli that they experience
+- neuroimaging: use of techniques to provide images of the structure and function of the brain
+
+Social-cultural psychology: study of how social situations and cultures influence thinking and behavior
+- how people perceive themselves and others and how people influence each other's behavior
+- social norms: ways of thinking/feeling/behaving shared by group members and perceived as appropriate
+- culture: common set of social norms
+
+Disciplines of psychology:
+- biopsychology and neuroscience
+- clinical and counseling psychology
+- cognitive psychology
+- developmental psychology
+- forensic psychology
+- health psychology
+- industrial-organizational and environmental psychology
+- personality psychology
+- school and educational psychology
+- social and cross-cultural psychology
+- sports psychology
 
 ## Freud
 [Top](#unit-1-history-and-approaches)
