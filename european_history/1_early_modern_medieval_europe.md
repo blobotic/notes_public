@@ -249,5 +249,108 @@ Kings tried to build their kingdoms to outlast them
 ## 4. The High Middle Ages: The Church
 [Top](#unit-1-early-modern-and-medieval-europe)
 
+The church was omnipresent
+- the mutual duties of lord and vassal were confirmed by religious oaths, bishops and abbots embedded themselves into the feudal system
+- the king was crowned by the church and anointed with holy oils
+- guilds were lay religious brotherhoods, choosing a patron saint
+- townspeople watched religious dramas
+- towns enacted the Gothic cathedrals that still stand today
+
+### The Development of the Medieval Church and Papacy
+
+During the 10th century, the church was in decay
+- fragmented and localized, illiterate clergy, faith mixed with pagan superstition, monasteries in decay, priests breaking celibacy, lay investiture
+- there was the notion of a grandness of Rome, but the actual bishop of Rome was mistreated and was largely taken over by Roman nobles
+
+Reform during the 11th century
+- sometimes a secular ruler wanted to correct conditions in his domains, so he asserted a strict control over his clergy
+	- in 962 the HRE proclaimed itself the continuation of the Roman and Carolingian empires, an extension of the Christian faith
+- some Christians wanted reform
+	- monastery of Cluny in France to purify monastic life and set a higher Christian ideal
+	- refused to recognize any authority except for Rome
+	- 1059: Pope Nicholas II issued a decree providing that future popes should be elected by the cardinals
+
+Gregory VII, Hildebrand, one of the first such popes
+- influenced by Cluniac reformers
+- wished for a society in which religious interests stood far above secular interests; where political barriers have dropped in favor of the church; the Pope stands at the head
+- believed in separation of church from worldly society, a pope could punish kings and emperors 
+- a world adminsitered by a single, united clergy
+- required celibacy of the clergy, which had never been generally established by the Greek Orthodox church or the Protestants in the West
+- rejected lay iinvestiture, coming into conflict with the Holy Roman Emperor, Henry IV
+	- in the HRE, bishops held much land
+	- Gregory supported the rebellion of German bishops and nobles then excommunicated him
+	- in penance, Henry sought the pope in Canossa in Italy (submission to Rome)
+- 1122: bishops recognized the emperor as their feudal head but looked to Rome for spiritual authority
+- struggle between popes and emperors continued (Italy, Germany)
+	- centralization of Latin Christendom under Rome
+	- blocked national unity in central Europe
+
+Innocent III (1198-1216)
+- virtually realized Gregory's dream of a united Christian world, recognized as a supreme arbiter
+	- a king of France took a wife, a king of England accepted an unwanted archbishop, a king of Leon divorced the cousin he had married, a claimant to the crown of Hungary deferred to his rival
+	- advised kings of Bohemia, Poland, and Denmark
+	- kings of England, Aragon, and Portugal acknowledged him as feudal overlord
+	- vast funds flowed into Rome and an enormous bureaucracy flourished
+- 1215: great church council of 500 bishops and patriarchs of Constantinople and Jersualem (Fourth Lateran Council)
+	- purpose: keep the clergy from worldly temptations
+	- forbid priests to officiate at ordeals or trials by battle, ending them as a practice
+	- regulate belief in the supernatural
+	- declared sacraments to be the channel of God's saving grace
+
+### Intellectual Life: The Universities, Scholasticism
+
+12th and 13th centuries: founding of the first universities
+- by 1200: center of medical studies at Salerno in south Italy, legal studies in Bologna in north Italy, theological studies at Paris
+- Oxford founded around 1200 by a secession of disgruntled students and professors from Paris, Cambridge soon after
+- 1300: almost a dozen universities in Latin Europe
+- 1500: almost a hundred
+
+Universities originated from gatherings of students and teachers developing into organized institutions that characterized various crafts in the High Middle Ages
+- universities united a body of men under an interest in learning and a communal name and being, possessng liberties under a charter and self-regulated
+- received income from pious donors and from holding land
+- collection of distinct schools or "faculties" P(i.e. theology, law, and medicine)
+- gave examinations and awarded degrees (initially for teaching) that were recognized throughout the Latin West, so students and teachers could freely move from one university to another
+- this all allowed the university to survive as an institution beyond a single lifetime
+
+Theology, the beginning of questioning religion
+- 11th century: Anselm, Italian, archbishop of Canterbury, wrote *Cur Deus Homo?* - "Why did God become man?" to explain why God took human form to save mankind
+- Abelard of Paris wrote *Sic et Non* - "Yes and No"/"Pro and Con", a collection of inconsistent statements made by St. Augustine and other Fathers of the Church, to show the true consistency in the faith of Christian doctrine
+
+Science and philosophy, the start of an intellectual revolution
+- derived from the Arabs (Sicily and Spain), who had taken over the ancient Greek science, translating their works, some of which had been translated from Greek to Arabic, to Latin
+- translated Aristotle, the codifier of Greek knowledge from the 4th century
+- struggled to conciliate Greek and Arabic learning with the Christian faith
+	- Thomas Aquinas (1225-1274), an Angelic Doctor, *Summa Theologica*, a survey of all knowledge
+		- 1879: Pope Leo XIII pronounced his work to be the foundation of Catholic philosophy
+		- demonstrated that faith and reason weren't in conflict
+		- "realism" philosophy - the general idea is more "real" than a particular, the superiority of abstraction, letting people maintain their faith in the church despite the corruption of individual members
+		- taught a hierarchical view of the universe and society, everything subordinated to God
+- scholastic philosophy made it difficult for natural science to fluorish but laid the foundation to exactness and disciplined thinking, as well as making the world safe for reason (in contrast to the Muslim world)
+
+### The Crusades; New Invasions; Europe by 1300
+
+the best remembered and least successful Crusades were those for the Holy Land
+- First Crusade
+	- 1095: Pope Urban II hoped to advance the peace of God by leading bellicose nobles to fight the infidels and to build up the leadership of Rome
+- following Crusades to the Holy Land went on for 200 years
+- growth of Italian shipping in the Mediterranean, rise of more orderly feudal monarchies, increasing sense of a Europe-wide common purpose enabled this
+- consequence of Europe's growing strength
+- 12th century: Latin Christians occupied Palestine and Syria, but had to withdraw by the 13th century
+
+Crusades within Europe found more success and more lasting results
+- Normans won Sicily from the Arabs in 1100
+- 1250: Iberian Christians from the mountains of northern Spain carred on a reconquista for 2 centuries against the Moors, founding Portugal, Leon, Castile, Aragon, and Valencia, and later capturing Granada from the Muslims in the south in 1492
+- 13th century: Albigensian crusade in southern France
+- Teutonic Order (a military-religious society of knights founded to fight in the Holy Land) carried out crusades in the north against the remaining European heathen (Prussia and east Baltic regions)
+
+1250: threat of invasion from Asia
+- Tartars in the 13th century
+- Ottoman Turks in the 14th century
+- but by the 13th century, Europe was finally capable of resistance, having assimilated all of Europe, uniting them under the Roman church, Latin, feudalism, monarchy, free town life, parliamentary assemblies, and scholastic learning
+
+the "rise of Europe", although Europe remained only one unremarkable power amongst the other great cultures of the world
+- China had a more fluorishing culture, cities, merchant class, manufacturers, iron, arts and sciences, centralized and complex government, learning, language, etc 
+- but it was the disorder of Europe that created a dynamism and freedom that promoted change and an enterprising/restless spirit
+
 ## 5. Disasters of the Fourteenth Century
 [Top](#unit-1-early-modern-and-medieval-europe)
