@@ -1,6 +1,16 @@
 # Unit 1: History and Approaches
 
-## *David Mysers*. Subfields in Psychology
+## Table of Contents:
+- [*David Myers*. Subfields in Psychology](#david-myers-subfields-in-psychology)
+- [The Evolution of Psychology: History, Approaches, and Questions](#the-evolution-of-psyhcology-history-approaches-and-questions)
+- [Freud](#freud)
+- [*David Myers*. Approaches and Psychology in the Real World](#david-myers-approaches-and-psychology-in-the-real-world)
+- [*Robert Sapolsky*. Behave Intro](#robert-sapolsky-behave-intro)
+- [The Problem Psychology Can't Shake](#the-problem-psychology-can't-shake)
+
+
+## *David Myers*. Subfields in Psychology
+[Top](#unit-1-history-and-approaches)
 
 Psychology: describing and explaining behavior and the mind underlying it
 
@@ -67,3 +77,18 @@ Helping profession:
 
 Other:
 - community psychologists - create social and physical environments that are healthy for all
+
+## The Evolution of Psychology: History, Approaches, and Questions
+[Top](#unit-1-history-and-approaches)
+
+## Freud
+[Top](#unit-1-history-and-approaches)
+
+## *David Myers*. Approaches and Psychology in the Real World
+[Top](#unit-1-history-and-approaches)
+
+## *Robert Sapolsky*. Behave Intro
+[Top](#unit-1-history-and-approaches)
+
+## The Problem Psychology Can't Shake
+[Top](#unit-1-history-and-approaches)
