@@ -202,6 +202,43 @@ Disciplines of psychology:
 ## Freud
 [Top](#unit-1-history-and-approaches)
 
+Freud's fundamental idea was human subconscious is defined by sexual/aggressive drives vs defenses against them
+- universal Oedipus complex, where boys love their mothers and hate their fathers
+
+Psychoanalysis - first used in 1896, when Freud was 40
+- Freud was born in 1856 to a Jewish family in the Moravian hamlet of Freiburg (Pibor in the Czech Republic)
+- moved to Vienna
+- firstborn, doted on by his parents over his siblings
+- 1873: University of Vienna
+- dabbled in various philosophical subjects until he hit on medicine
+- most interesting mysteries lay in the mind
+- by the 1890s, he mainly specialized in "neurasthenics" (severe hysterics)
+- wrote down dreams, used introspection by both his parents and himself
+
+Freud's *The Interpretation of Dreams* (1900) made his reputation
+- mental experiences and entities are a part of nature, so even unconscious actions have meaning
+
+*Three Essays on the Theory of Sexuality* (1905) alienated him from mainstream psychology but found other arden supporters
+- Vienna Psychoanalytic Society in 1908
+- two best known "defectors":
+- Alfred Adler, a Viennese physician and sociologist
+	- inferiority complex
+- Carl Jung, a Swiss Protestant
+	- Freud viewed him as his "crown prince"/successor
+	- his ambition and growing commitment to religion drove them apart
+	- Freud was an aggressive atheist
+
+Freud wanted to develop the rules of psychoanalytic therapy and expand his picture of human nature to encompass the whole culture
+- silent listener in analysis
+
+The efficacy of psychoanalysis is debatable
+- a possibility when combined with drug therapy
+
+He denied the truth of all religion, including Judaism, drawing a line between religious faith and scientific inquiry
+
+*Civilization and Its Discontents* (1930), his essay on politics
+- civilization is hostile to people and their desires
+
 ## *David Myers*. Approaches and Psychology in the Real World
 [Top](#unit-1-history-and-approaches)
 
