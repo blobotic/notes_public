@@ -150,5 +150,80 @@ litterae humanoires: rising interest in humane letters
 ## 7. The Renaissance outside Italy
 [Top](#unit-2-renaissance)
 
+The northern Renaissance was characterized by a more gradual change with a strong religious focus and a blend of the old and the new, and developments in some cases (Flemish painters) exceeded Italy
+
+### Religious Scholarship and Science
+
+"pagan" humanism of Italy and the Christian humanism of the north
+- Christian humanists studied the Hebrew and Greek texts of the Bible and read the Latin and Greek Church Fathers 
+	- deepen understanding of Christianity
+	- restore moral vitality
+- universities remained places of pedantic, monkish, and "scholastic" learning
+	- continuing foundation of universities (continued medieval intellectual interests), in contrast to Italy in the 15th century, where no universities were established
+
+Germany, before the commerce shift from central Europe to the Atlnatic seaboard, was a center of European life
+- politically ill-defined
+- flourished economically; towns traded and German banking families (i.e. Fugger) controlled the greatest amount of wealth in Europe
+- technical inventiveness
+- mining developing
+- Gutenberg in Mainz in the Rhineland produced the first books printed with movable type in 1450
+- Flemish masters of painting on the western fringe of Germany, and Durer and the Holbeins in south Germany
+- Latinizing of Germany names - Germany also shared Latin culture
+- Regiomontanus (Johann Muller) (1436-1476)
+	- mathematical conception of the universe
+	- most influential scientist of the 15th century
+	- Leonardo da Vinci's scientific labors unknown
+- Nicholas of Cusa (1401-1464), Rhineland, churchman
+	- mystical philosophy turned into mathematics and science
+- Copernicus (Niklas Koppernigk) (1473-1543), mixed German-Polish region of East Prussia
+	- earth moved about the sun
+- Behaim and Schoner: Europe's best-known cartographers were also Germans
+- Paracelsus (Hohenheim) revolutionized medicine at the University of Basel
+- Dr. Faustus 
+	- rumored to have sold his soul to the devil for knowledge and power
+	- dramatized later
+	- Oswald Spengler's *Decline of the West* in 1918: called European society "Faustian"
+- idea of human powers to understand and control physical nature
+	- similar to Italy's idea of humanity's limitless potential
+	- emancipation of humanity's limitless potentialities
+	- the two ideas constituted the new Renaissance spirit
+
+### Mysticism and Lay Religion
+
+Italy: religion became aesthetic
+
+north: religion took on a more mystical and soberly moral tone
+- Nicholas of Cusa - mystic tendencies
+- Mesiter Eckhart (d. 1327)
+- Thomas a Kempis 9d. 1471), *Imitation of Christ*
+- mysticism: belief/experience that the individual soul could in perfect solitude commune directly with God
+	- accepted the church but offered a deeper religion in which the church had no place
+	- transcended all social institutions 
+	- Martin Luther later drew from this
+	- as a consequence, people who would've been clergy in the Middle Ages remained laymen, and church reformers now came from outside the church
+
+Lay religion in the Netherlands
+- George Groote, a lay preacher, gave sermons on spiritual regeneration
+- 1374: founded a religious sisterhood, the Sisters and Brothers of the Common Life, which eventually received papal approval
+- lived communually but not as monks/nuns (far more freedom)
+- worked in relieving the poor and teaching, focusing on the Christian ideal of character and conduct
+- Modern Devotion: spread widely in the Netherlrands and adjoining parts of Germany
+
+### Erasmus of Rotterdam
+
+Erasmus of Rotterdam (1466-1536), the most notable figure of the humanist movement
+- like all the humanists, he wrote in a "purified" and intricate Latin style
+- disdained the Middle Ages and studied the classical writers of antiquity
+	- indifferent to hard questions of serious philosophy
+	- feared the unenlightened excitability of common people
+	- unpolitical
+	- didn't think in terms of worldly power or advantage
+	- need of reform of the clergy, but put his faith into education, enlightened discussion, and gradual moral improvement
+- *Praise of Folly*: satirized worldly pretensions and ambitions, particularly those of the clergy
+- *Handbook of a Christian Knight*: balance between worldly affairs and remaining a devout Christian
+- "Erasmian virtues" - mildness, reasonableness, tolerance, love of peace, critical and reforming zeal, etc
+- never questioned the essence of the Roman Catholic church, only attacked the abuses in the church by the clergy
+
+
 ## 8. The New Monarchies
 [Top](#unit-2-renaissance)
