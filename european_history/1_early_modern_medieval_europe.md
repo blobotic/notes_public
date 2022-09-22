@@ -355,3 +355,126 @@ the "rise of Europe", although Europe remained only one unremarkable power among
 
 ## 5. Disasters of the Fourteenth Century
 [Top](#unit-1-early-modern-and-medieval-europe)
+
+"secularization" - modernize and adapt a religion to make room for nonreligious interests
+- Chinese and Confucius
+- Muslims and Koran
+- India and Hindu
+- world civilization comes from traditional cultures becoming increasingly secularized
+
+Decline of Christianity in the 13th century
+- 1240: Mongols held Russia for 200 years
+- Ottoman Turks invaded the Byzantine Empire and crushed the Serbian kingdom in the battle of Kosovo in 1389, taking over the Balkans and Constantinople in 1453
+- authority of the papacy and the Roman Catholic Church questioned, leading to the rise of the Protestant church
+- divergence from Christian ideals, pursuit of government, law, philosophy, science, arts, economic activities
+
+### The Black Death and Its Consequences
+
+Black Death, the bubonic plague
+- 1348: first appeared
+- 14th century: half the population wiped out
+- bacillus carried by rats, making crowded towns vulnerable
+- villages died out, fields abandonedl, trade obstructed, prices, wages, and incomes erratic, famines and other disease
+- labor became scarce so wages were higher, although work was harder to find because of disorganization and the decimation of urban employers
+- English Statute of Laborers of 1351: upper classes tried to contol wages and prices through the government
+- worker rebellions broke out
+	- Flanders
+	- peasant insurrections
+	- "jacqueries" - France, first in 1358
+	- 1381: Wat Tyler's rebellion in England
+- governments suppressed these and the peasants returned to normal but with better conditions because landowners had to appease them to get work done on their manors
+	- lifetime (hereditary) tenures, decreased value of shilling decreased burden of debt
+	- class of small peasant property owners emerged
+- kings needed more spending power to maintain their governments and to employ soldiers to suppress feudal resistance
+	- currency debased, giving the king more money but decreasing the value of money (inflation)
+	- new taxes 
+		- 1300: kings of England and France tax clergy
+		- increasing demands of merchants and landholders
+		- resistance from them and subject to bargains by representative bodies ("golden age" of parliaments)
+
+1337: Hundred Years'War between England and France
+- took palce in internally divided France
+- France severely divided until the days of Joan of Arc, burned at Rouen in 1431
+- in contrast, patriotism rose in England and Parliament grew stronger as kings needed money
+- disorder became worse
+	- great barons more unruly
+	- deposed Richard II in 1399
+	- Scotland invasion, Wales revolt
+	- dukes and earls fought with private armies, disobeyed royal law courts, exploited Parliament, government, and their peasants
+- 1450: Jack Cade's rebellion called for reform without success
+- 1450-1485: Wars of the Roses
+	- upper-class turmoil
+
+### Troubles of the Medieval Church
+
+corruption of the papacy
+- 1300: zenith of the church of the High Middle Ages
+- corruption: belief that the institution existed to benefit its officials
+	- refusal to reform internally or externally
+	- out of touch with public opinion
+	- self-perpetuating bureaucracy 
+- *Unam Sanctum* by pope Boniface VIII in response to Edward I of England and Philip the Fair of France trying to tax the church in the 1290s
+	- no salvation outside of the Roman church
+	- French sent soldiers to arrest Boniface, who soon died
+	- "Babylonian Captivity" of the church: election of a pope subservient to Philip and who lived on the borders of France
+- 1378: Great Schism of the West
+	- College of Cardinals elected two popes, one who lived in Rome and the other Avignon, both of whom refused to resign
+	- France recognized Avignon, England and Germany recognized the Roman
+- unparalleled splendor of the papacy
+	- papal courts surpassed the kings' courts, officialdom flourished, revenues increased, new papal taxes ("annates", every bishop/abbot had to transmit to Rome most of the first year's income of his office)
+	- international bankers
+- shaky foundation
+	- after escaping subserviency to the French, the papal divide led to complaints about extravagance and worldliness of papal rule
+	- religious insecurity because of the disgrace of popes and the absence of security in their church being "correct"
+	-  people turned to heretics and witchcraft out of fear for the wrath of God, others turning to self-indulgence
+	- dissatisfaction/disbelief with the church spread
+	- *Piers Plowman* by William Langland in the 1360s: contrasted the sufferings of the honest poor with the hypocripsy and corruption of high places
+	- Lollards: advocating for the poor against the corrupt elite
+	- 1380: Wyclif believed that organized church might not be necessary for salvation
+		- true church didn't need worldy lpossessions
+		- John Huss in Bohemia echoed the sentiment
+		- Hussites became a religious and a Slavic/Czech party, protesting against the supremacy of the Germans in Bohemia
+		- Hussite wars
+	- Lollards/Huss/Wyclif: branded as heresy
+
+### The Conciliar Movement
+
+1409: a church council met at Pisa with representatives from the entirety of the LAtin West
+- deposed the two reigning popes and elected another
+	- they refused to resign, so there were now three popes
+
+1414: a greater council met at Constance
+- to end the 3-fold schism
+	- all three popes withdrew and Martin V. was elected, restoring the unity of the church
+- to extirpate heresy
+	- John Huss interrogated, condemned, and burnt at stake
+- to reform the church from top to bottom
+
+popes vs councils
+- the majority wanted to make the council permanent and consider the pope as a constitutional monarch, but Martin V. immediately  dissolved the Council of Constance after taking office
+- next 30 years was a clash between popes and councils
+- the church became more corrupt
+	- "simony", the buying or selling of church offices, which was a crime in canon law, was unenforceable 
+	- 1300: Boniface VIII encouraged the practice of "indulgences"
+- popes gradually prevailed over the councils
+	- conciliar movement weakened when the French element secured its aims by a local national arrangement
+	- 1438: in the Pragmatic Sanction of Bourges, the Gallican (French) church affirmed
+		- councils > popes
+		- independence from the Holy See and suppression of payment of annates to Rome
+		- forbade papal intervention in the appointment of French prelates
+		- papacy lost influence in France
+- 1449: Council of Basel dissolved, and the conciliar movement ended
+- 1450: Jubilee to celebrate the papal triumph
+
+popes of the Renaissance
+- accomplished scholars
+	- Nicholas V (1447-1455)
+	- Pius II (1458-1464) 
+- popular
+	- Innocent VIII (1484-1492), first pope to dine in public with ladies
+- corruption
+	- Alexander VI (1492-1503), Spanish Borgia family, tried to make his son Cesare Borgia the ruler of Italy while his daughter, Lucretia Borgia, gathered literary men and artists around her with an exaggerated reputation for depravity
+- general
+	- Julius II (1503-1513), Alexander VI's successor
+- patron of arts and architecture
+	- Leo X (1513-1521)

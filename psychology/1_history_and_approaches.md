@@ -242,8 +242,103 @@ He denied the truth of all religion, including Judaism, drawing a line between r
 ## *David Myers*. Approaches and Psychology in the Real World
 [Top](#unit-1-history-and-approaches)
 
+1960s: cognitive revolution, increased interest in cognition - how our mind processes and retains information
+- Cognitive psychology: scientific exploration of how we perceive, process, and remeber information and how thinking and emotion interact in disorders
+- cognitive neuroscience: cognitive psychology and neuroscience
+
+Psychology: the science of behavior and mental processes
+- behavior: observable actions
+- mental processes: internal, subjective experiences inferred from behavior
+- a way of asking and answering questions
+
+Roots of psychology:
+- diversity of psychology's origins: Wundt (philosopher, physiologist), James (American philosopher, Freud (Austrian physician), Pavlov (Russian physiologist), Piaget (Swiss biologist)
+- 1+ million psychologists today
+
+### Evolutionary Psychology and Behavior Genetics
+- nature-nurture issue (Socrates and Plato believed that character and intelligence were inborn, Aristotle believed in nurture_
+	- Locke: blank state
+	- Descartes: some ideas are innate
+	- Charles Darwin's theory of natural selection
+- evolutionary psychology: focuses on how humans are alike because of common biology and evolutionary history
+- behavior genetics: how do we individually differ becaues of our differing genes and environments
+
+#### Cross-Cultural and Gender Psychology
+- culture (shared ideas and behaviors that one generation passes on to the next) matters
+	- shapes behavior
+- same underlying processes guide people everywhere becaues of shared biological heritage
+	- learning disorders: same brain malfunction
+	- all language share deep principles of grammar, body language
+	- loneliness spurred by shyness, low self-esteem, and being unmarried
+- gender differences in what we dream, how we express and detect emotions, etc
+
+#### Positive Psychology
+- postiive psychology: research on human flourishing rather than a focus on diseases/troubles/challenges
+
+### The Biopsychosocial Approach and Psychology's Theoretical Perspectives
+
+biopsychosocial approach: biological, psychological, and social-cultural viewpoints combined
+	- behavioral: determine what triggers angry responses/aggressive acts
+	- biological: study brain circuits that cause us to get angry, or how hereditary and experience influence our individual differences in temperament
+	- cognitive: how interpretation of a situation affects anger and how anger affects thinking
+	- evolutionary: how anger facilitated survival of our ancestors' genes
+	- humanistic: how angry feelings affect a person's potential for growth
+	- psychodynamic: outlet for unconscious hostility
+	- social-cultural: expressions of anger vary
+
+psychology's theoretical perspectives
+- behavioral: how we learn observable responses
+- biological: how body/brain enable emotions, memories, sensory experiences; how our genes and our environment influence our individual differences
+- cognitive: how we encode, process, store, and retrieve information
+- evolutionary: natural selection of traits
+- humanistic: personal growth and self-fulfillment
+- psychodynamic: unconscious drives and conflicts
+- social-cultural: how behavior and thinking vary across situations and cultures
+
+### Use Psychology to Become a Stronger Person—and a Better Student
+
+- get a full night's sleep
+- make space for exercise
+- set long-term goals with daily aims
+- "growth mindset"
+- prioritize relationships
+
+testing effect: repeated self-testing and rehearsal of previously studied material improves retention
+- actively processing information
+- SQ3R: Survey, Question, Read, Retrieve, Review
+	- Survey: birds eye view
+	- Question: try to answer questions
+	- Read: actively search for answer to the question
+	- Retrieve: test yourself
+	- Review: reread notes and review the whole module
+
+Other tips:
+- Distribute your study time: spaced practice promotes better retention
+- Learn to think critically
+- Process class information actively
+	- taking notes by hand imrpvoes retention
+- Overlearn
+
+
 ## *Robert Sapolsky*. Behave Intro
 [Top](#unit-1-history-and-approaches)
+
+Categorical thinking can destroy your ability to think about facts because of arbitrary boundaries
+- when you explain a behavior with one discipline, you are implicitly invoking all the disciplines
+
+Erroneous:
+- John Watson, founder of behaviorism
+- Egas Moniz, Portuguese neurologist, awarded the Nobel Prize in 1949 for his development of frontal leukotomies
+- Konrad Lorenz, and animal behaviorist, Nobel laureate, cofounder of ethology, Nazi propagandist
+
+Humans and animals:
+- assimilate how similar we are (biologically, physiologically)
+- how we use physiology in novel ways
+- unique aspects of humans
+	- culture
+	- non-physical harm
+	- passive-aggressive, damn with faint praise, cut with scorn, contempt with patronizing concern
+	- entertainment/beauty
 
 ## The Problem Psychology Can't Shake
 [Top](#unit-1-history-and-approaches)
