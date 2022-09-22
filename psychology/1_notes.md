@@ -4,6 +4,8 @@ There used to be supernatural explanations for non neurotypical behaviors, with 
 
 Trepanning: cracking a hole in the skull to release spirits
 
+---
+
 Philosophy:
 - nature, knowledge & skill are innate
 	- **Plato**
@@ -17,6 +19,8 @@ Philosophy:
 	- *tabula rasa* - blank slate
 	- **John Locke**
 
+---
+
 Structuralism: to identify different elements/structures of the mind
 - one of the first schools of thought
 - **Wundt**: founds the first psychology lab in Germany in 1879
@@ -27,6 +31,8 @@ Structuralism: to identify different elements/structures of the mind
 	- "periodic table" of sensations of the mind using introspection
 	- claimed to map over 40,000 sensations
 
+---
+
 Functionalism: our behavior is adapted for by natural selection
 - **Charles Darwin**: theory of natural selection
 - **William James**: founded a psychology lab at Harvard
@@ -34,6 +40,8 @@ Functionalism: our behavior is adapted for by natural selection
 - **Mary Whiton Caulkins**: woman in psychology
 	- William James' student
 	- other students at Harvard walked out, so she was tutored 1-on-1
+
+---
 
 Psychoanalysis:
 - **Freud**: many of his ideas and theories are embedded in aspects of therapy today
@@ -45,6 +53,8 @@ Psychoanalysis:
 		- **oedipal: 3-5/6**: superego, a sense of morality/norms of society arising from a conflict
 			- boys demand mother's attention, girls notice something different from father
 			- superego not ingrained as deeply in girls because of the less significant conflict
+
+---
 
 Behaviorism: interested in observable responses only
 - **Ivan Pavlov**: classical conditioning
@@ -66,13 +76,17 @@ Behaviorism: interested in observable responses only
 	- refines the law of effect and names it operant conditioning
 	- rewards introduce an increase in behavior, punishments introduce a decrease in behavior
 
+---
+
 Gestalt psychology: perception, how we take sensory information and make it meaningful
-	- field of cognitive psychology
-	- **Law of proximity**: group objects by distance
-	- **Law of similarity**: group alike objects
-	- **Law of closure**: fill in gaps with prior knowledge
-	- **Law of connectedness**: connected objects will be perceived as one object
-	- **Law of figure-groud**: to perceive an object, we must first see it as separate from the background
+- field of cognitive psychology
+- **Law of proximity**: group objects by distance
+- **Law of similarity**: group alike objects
+- **Law of closure**: fill in gaps with prior knowledge
+- **Law of connectedness**: connected objects will be perceived as one object
+- **Law of figure-groud**: to perceive an object, we must first see it as separate from the background
+
+---
 
 Contemporary fields of psychology:
 - cognitive psychology: late 20th century, more relevant with increased technology
@@ -81,6 +95,8 @@ Contemporary fields of psychology:
 	- language
 	- thinking and problem solving
 	- memory and attention
+
+---
 
 Contemporary approaches:
 - behavioral: how we learn observable responses
