@@ -281,7 +281,8 @@ Gregory VII, Hildebrand, one of the first such popes
 	- Gregory supported the rebellion of German bishops and nobles then excommunicated him
 	- in penance, Henry sought the pope in Canossa in Italy (submission to Rome)
 - 1122: bishops recognized the emperor as their feudal head but looked to Rome for spiritual authority
-- struggle between popes and emperors continued (Italy, Germany)
+- struggle between popes a
+nd emperors continued (Italy, Germany)
 	- centralization of Latin Christendom under Rome
 	- blocked national unity in central Europe
 

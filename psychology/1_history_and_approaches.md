@@ -26,7 +26,7 @@ Basic research (increase the field's knowledge base):
 	- education and child-care reform, maternal and child health, attachment and adoption
 - cognitive psychologists - experiencing how we perceiveperceive, think, and solve problems
 	- study human thinking
-	- perception, language, attention, problem solving, memory, judgement, decision making, forgetting, intelligence
+	- perception, language, attention, problem solving, memory, judgment, decision making, forgetting, intelligence
 - educational psychologists - studying influences on teaching and learning
 	- processes involved in learning
 	- university psychology department or school of education
@@ -49,7 +49,7 @@ Applied research (solve practical problems):
 	- most are clinical psychologists, although many have expertise in social/cognitive psychology, some have law degrees
 - environmental psychologists - study interaction of individuals with their natural and urban environments
 	- wildlife conservation, impact of urbanization on health, or cognitive factors involved in sustainable lifestyle choices
-- health psychologists - psychology in promoting healteh and preventing disease
+- health psychologists - psychology in promoting health and preventing disease
 	- designing, conducting, or evaluating programs to stop smoking, lose weight, improve sleep, manage pain, prevent the spread of STDs, or treat the psychosocial problems associated with chronic and terminal illnesses 
 	- create interventions for conditions associated with health and illness
 	- improve government policies and health care systems
@@ -57,7 +57,7 @@ Applied research (solve practical problems):
 	- central nervous system disorders
 	- head injuries
 	- learning and development disabilities
-- rehabilitaiton psychologists - work with people who have lost optimal functioning
+- rehabilitation psychologists - work with people who have lost optimal functioning
 - school psychologists - assessment and intervention for children in educational settings
 - sports psychologists - psychological factors that influence and are influenced by sports and other activities
 	- coah education, athlete preparation, anxiety or substance abuse
@@ -120,7 +120,7 @@ Famous philosophers:
 	- founded a laboratory at Cornell University
 - John B. Watson (1878-1958), American - behaviorism
 - Sir Frederic Bartlett (1886-1969), British - cognitive and social processes of memory
-- Jean Piaget (1896-19809), Swiss - cognitive developmetn in children
+- Jean Piaget (1896-19809), Swiss - cognitive development in children
 - B. F. Skinner (1904-1990), American - behaviorism
 - Donald Broadbent (1926-1993), British - attention
 - Linda Bartoshuk, Daniel Kahneman, Elizabeth Loftus, George Miller, American - learning, memory, judgement, neuroscience
@@ -128,7 +128,7 @@ Famous philosophers:
 
 Issues:
 - Nature vs nurture
-	- heritibility of characteristics (proportion of observed differences that is due to genetics)
+	- heritability of characteristics (proportion of observed differences that is due to genetics)
 		- intelligence high heritability (0.85)
 		- extraversion is 0.50
 - Free will vs determinism
@@ -140,7 +140,7 @@ Structuralism: identify basic elements/structures of psychological experience
 - create a periodic table of elements of sensations
 - used introspection: asking research participants to describe what they experience
 - reaction time instruments
-- Wundt discovered difference between the sensation and perception of a sitmulus
+- Wundt discovered difference between the sensation and perception of a stimulus
 - Tichtener claimed to have identified over 40,000 sensations
 - rigorous and scientific
 - limitations of introspection: subjective experiences
@@ -218,7 +218,7 @@ Psychoanalysis - first used in 1896, when Freud was 40
 Freud's *The Interpretation of Dreams* (1900) made his reputation
 - mental experiences and entities are a part of nature, so even unconscious actions have meaning
 
-*Three Essays on the Theory of Sexuality* (1905) alienated him from mainstream psychology but found other arden supporters
+*Three Essays on the Theory of Sexuality* (1905) alienated him from mainstream psychology but found other ardent supporters
 - Vienna Psychoanalytic Society in 1908
 - two best known "defectors":
 - Alfred Adler, a Viennese physician and sociologist
