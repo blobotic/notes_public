@@ -227,3 +227,109 @@ Erasmus of Rotterdam (1466-1536), the most notable figure of the humanist moveme
 
 ## 8. The New Monarchies
 [Top](#unit-2-renaissance)
+
+New Monarchs
+- middle of the 15th century: war, civil war, class war, feudal rebellion, banditry
+	- formless violence weakened central governments
+- "New Monarchs" tried to impose a civil peace
+	- not really new because they resumed the interrupted labors of kings in the High Middle Ages
+	- foundation for national/territorial states
+- monarchy as an institution was a guarantee of law and order
+- proclaimed that hereditary monarchy was the legitimate form of public power
+	- support of middle-class people in towns, tired of the private wars and marauding habits of feudal nobles
+	- willing to let parliaments be dominated/ignored by the king because parliaments were often filled with unruly barons or had accentuated class conflict
+- king organized armies with taxes to control the nobles
+	- pike + longbow let foot soldiers stand against horsemen
+	- foot soldiers were far cheaper
+- used Roman law (studied in universities) to break down the feudal "common" law
+	- king = "sovereign", addressed as "majesty"
+	- king incorporated the will and welfare of the people in his own person
+	- *salus populi suprema lex* - "the welfare of the people is the highest law"
+	- king could make law
+	- *quod principi placuit legis habiet vigorem* - "what pleases the prince has the force of law"
+
+### The New Monarchy in England, France, and Spain
+
+England: New Monarchy arrived with the dynasty of the Tudors (1485-1603)
+- Henry VII (1485-1509), first king, gained the throne by force and put an end to the civil turbulence of the Wars of the Roses
+	- great English baronial had weakened each other
+	- passed laws against "livery and maintenance", aka private armies
+	- used his royal council as a new court, which met in the Star Chamber 
+		- represented the authority of the king and his council
+		- no jury
+		- later denounced as an instrument of despotism
+		- initially accepted because it preserved law and order
+
+France: New Monarchy represented by Louis XI (1461-1483) of the Valoid line and his successors
+- royal domain expanded around Paris
+- Louis XI rounded out French borders, built up a royal army, suppressed brigands, and suppressed rebellious nobles
+- power to raise taxes without parliamentary consent
+	- Estates General of France met only once during his reign
+	- there, they requested the king govern without them
+- after 1516, the kings of France controlled their own national clergy (why they were never tempted to turn Protestant)
+	- 1516: King Francis I reached an agreement with Pope Leo X, the Concordat of Bologna, to rescind the Pragmatic Sanction, which gave councils greater independence and power 
+	- pope received annates, king appointed bishops and abbots
+
+Spain: Aragon and Castile
+- Aragon: Balearic Islands, Sardinia, Sicily, Naples
+- Castile (after 1492): Americas
+- both joined after the marriage of Ferdinand of Aragon and Isabella of Castile in 1469, but neither adopted a common political, judicial, or administrative institution
+- the common feeling was belonging to the Spanish Catholic church, rather than a sense of Spanish national identity
+- Cardinal Ximenes, shortly before 1500, managed to rid the church in Spain of the abuses and inertia which debilitated the church in the rest of Europe, completing the *reconquista*
+	- 1492: Granada conquered from the Moors, adding to the heterogeneous character of the spanish dominions
+- thus, unification took place around the church
+	- rulers worked through facilities offered by the church, most notably the Inquisition
+	- insisted on religious conformity
+	- "Spanishness" = sense of Catholicism
+	- in contrast to the prior tolerantness, the expelled the Jews and the Moors in 1492
+	- false Christians became common, families that had been Muslim (Moriscos) or Jewish (Marranos) but had accepted Christianity to avoid expulsion
+	- fear that they retained a sympathy for the religion of their forbears, and so they were brought before the Inquisition to extort confessions
+	- spanish life became rigidly and ostentatiously orthodox
+	- safest to be profuse in one's external devotions
+	- fused the national and the Catholic
+- Spain remained a great crusade
+
+### The Holy Roman Empire and the Habsburg Supremacy
+
+HRE had three states: 
+- the princely states 
+	- duchies, magraviates, etc
+	- hereditary, like Saxony, Brandenburg, Bavaria
+	- New Monarchy primarily successful in hereditary princely states, which began taking on the semblance of modern states
+- the ecclesiastical states
+	- bishoprics, abbacies, etc
+	- bishop/abbot conducted the government, nonhereditary
+- imperial free cities
+	- around 50
+	- dominated the commercial and financial life of the country
+- also thousands of imperial knights
+	- noblemen of minor consequence who possessed few manors 
+	- recognized the supremacy of only the emperor
+- they kept the emperorship in an elective role so that local liberties could be reformed
+	- Count Palatine, Duke of Saxony, Margrave of Brandenburg, King of Bohemia, archbishops of Mainz, Trier, and Cologne
+	- 1452: the electors chose the Archduke of Austria to be the emperor
+		- Habsburgs - managed to get themselves consistently reelected to Emperorship in almost every generation from 1452-1806
+		- Habsburg emperors tried to introduce centralizing principles, but they fell flat in the face of state rights
+- Charles V of the Empire (known as Charles I in Spain)
+	- Maximilian of Austria married the heiress of the dukes of Burgundy, who had acquired the Netherlands and the Free County of Burgundy
+	- their son, Philip, married Joanna, heiress to Ferdinand and Isabella of Spain
+	- Charles was Philip and Joanna's son, combining his grandparents' inheritances and also elected Holy Roman Emperor
+	- became symbolic head of Germany
+	- most powerful ruler of the day
+- Turks were pushing through Hungary and defeated the Hungarians at the battle of Mohacs, so in desperation, the parliaments of Hungary and Bohemia elected Charles V's brother Ferdinand as their king
+	- Habsburg family entrenched in central Europe, Netherlands, Spain, Mediterranean, south Italy, America
+	- no one since Charlemagne had stood so far above all rivals
+	- Europe threatened with a "universal monarchy"
+
+Causes of the religious reformation and the emergence of Protestanism
+- decline of the church
+- growth of secular and humanistic feeling
+- spread of lay religion outside of the official clergy
+- rise of monarchs who wished to control everything in their kingdoms, including the church
+- resistance of feudal elemetns to these same monarchs
+- lassitude of the popes and their feer of church councils
+- atomistic division of Germany
+- Turkish peril
+- zeal of Spain
+- preeminence of Charles V
+- fears felt in the rest of Europe, especially France, of absorption of suffocation by the Habsburg empire
