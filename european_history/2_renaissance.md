@@ -26,9 +26,9 @@ Renaissance: "rebirth"
 the towns of Italy were the richest of those that arose in Europe in the Middle Ages
 - pursuit of refined trades: goldsmith or stonecarver
 - delight in the beautiful became common in all classes
-- merchants made fortunes in commerce and as bankerse
+- merchants made fortunes in commerce and as bankers
 	- lent money to popes or princes
-	- rejoiced in the beautiful things money could buy\
+	- rejoiced in the beautiful things money could buy
 	- secular: forgot what couldn't be bought
 
 towns were independent city-states
@@ -64,7 +64,7 @@ new conception of life
 - arts and architecture reflected an increasing worldliness: it was a function of the arts to convey a reality and objectiveness, but also to be idealized by the artist's individual feeling
 - architecture diverged from the Gothic cathedrals of the Middle Ages
 	- architects preferred Greco-Roman principles of design (symmetrical arrangements of doors and windows, the classical column, the arch and the dome)
-	- more publics nonreligious buildings were built
+	- more public nonreligious buildings were built
 	- town houses built by wealthy merchants
 	- gardens and terraces
 - sculpture emerged as an independent and free-standing art
@@ -78,7 +78,7 @@ new conception of life
 	- conception and presentation were new: introduction of the mathematics of perspective
 	- to tell a story
 	- became less symbolic and more a portrayal of concrete realities, with distinct individuals and expressions (increased focus on human subjects)
-- while the main tone of the arts in Renaissance Italy was to take satisfaction in beauty and to present the world as desirable, clear-cut, lucid, and finite, many Florentines were troubled by the wordliness and paganism that had grown, leading to a movement for religious reforms
+- while the main tone of the arts in Renaissance Italy was to take satisfaction in beauty and to present the world as desirable, clear-cut, lucid, and finite, many Florentines were troubled by the worldliness and paganism that had grown, leading to a movement for religious reforms
 	- led by priest Savanarola, who was tried and burned at the stake in 1498
 
 ### Humanism: The Birth of "Literature"
@@ -97,9 +97,9 @@ litterae humanoires: rising interest in humane letters
 	- French and English followed soon after; other languages took longer
 - Francesco Petrarca, Petrarch: Florentine exile, son of a merchant
 	- disdained the law and the clergy as too "scholastic"
-	- loved life, love, beauty, travel, and connections and spurned the ephermeral and deceptive
+	- loved life, love, beauty, travel, and connections and spurned the ephemeral and deceptive
 	- loved Cicero for his common sense and commitment to political liberty
-	- loved St. Augustine for his otherworldy vision of the City of God
+	- loved St. Augustine for his otherworldly vision of the City of God
 		- also found religious concern in Cicero and St. Augustine's writing
 	- wrote sonnets in Italian, an epic in Latin, an introspective study of himself, and many letters
 	- aspired to literary fame
@@ -134,7 +134,7 @@ litterae humanoires: rising interest in humane letters
 	- Sforza dukes in Milan
 	- narrow oligarchies ruled Venice and Genoa
 - Niccolo Machiavelli, *The Prince* (1513) - dreamed of the citizens of Italy uniting under patriotism, found his heroes in the kings Ferdinand of Aragon, Louis XI of France, and Henry VII of England
-	- emancipated politics from theology and moreal philosophy
+	- emancipated politics from theology and moral philosophy
 	- effective rulers and governments act only in their own political interest
 	- while bad, it was how successful rulers behaved
 	- considered unduly cynical
@@ -205,7 +205,7 @@ north: religion took on a more mystical and soberly moral tone
 Lay religion in the Netherlands
 - George Groote, a lay preacher, gave sermons on spiritual regeneration
 - 1374: founded a religious sisterhood, the Sisters and Brothers of the Common Life, which eventually received papal approval
-- lived communually but not as monks/nuns (far more freedom)
+- lived communally but not as monks/nuns (far more freedom)
 - worked in relieving the poor and teaching, focusing on the Christian ideal of character and conduct
 - Modern Devotion: spread widely in the Netherlrands and adjoining parts of Germany
 
@@ -281,7 +281,7 @@ Spain: Aragon and Castile
 	- rulers worked through facilities offered by the church, most notably the Inquisition
 	- insisted on religious conformity
 	- "Spanishness" = sense of Catholicism
-	- in contrast to the prior tolerantness, the expelled the Jews and the Moors in 1492
+	- in contrast to the prior tolerancy, the expelled the Jews and the Moors in 1492
 	- false Christians became common, families that had been Muslim (Moriscos) or Jewish (Marranos) but had accepted Christianity to avoid expulsion
 	- fear that they retained a sympathy for the religion of their forbears, and so they were brought before the Inquisition to extort confessions
 	- spanish life became rigidly and ostentatiously orthodox
@@ -327,7 +327,7 @@ Causes of the religious reformation and the emergence of Protestanism
 - spread of lay religion outside of the official clergy
 - rise of monarchs who wished to control everything in their kingdoms, including the church
 - resistance of feudal elemetns to these same monarchs
-- lassitude of the popes and their feer of church councils
+- lassitude of the popes and their fear of church councils
 - atomistic division of Germany
 - Turkish peril
 - zeal of Spain

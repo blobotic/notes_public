@@ -12,9 +12,6 @@
 ## *David Myers*. The Need of Psychological Science
 [Top](#unit-2-research-methods)
 
-## *David Myers*. The Scientific Method
-[Top](#unit-2-research-methods)
-
 ### Hindsight bias
 
 Hindsight bias - the tendency to believe, after learning an outcome, that one would have foreseen it
@@ -46,8 +43,109 @@ These three tendencies lead us to overestimate the weight of common sense thinki
 
 Scientific inquiry can help us overcome such biases and shortcomings
 
+## *David Myers*. The Scientific Method
+[Top](#unit-2-research-methods)
+
+### The Scientific Method
+
+Scientific method: a self-correcting process for evaluating ideas with observation and analysis
+- combines curiosity, skepticism, and humility
+- if predictions fail, the theory is revised or rejected
+
+**theory** - an explanation using an integrated set of principles that organizes obesrvations and predicts behaviors or events
+- organizes observations
+- summarizes and simplifies
+
+good theories produce testable predictions, **hypotheses**
+- specify what results would support the theory and which would disconfirm it
+
+**Operational definitions** - a carefully worded statement of the exact procedures (operations) used in a research study
+- ex. human intelligence can be defined as what an intelligence test measures
+- important for **replication** - repeating the essence of a research study, usually with different participants in differing situations, to see whether the basic finding can be reproduced
+	- confirmation
+	- lack of replication also lets us revise our understanding
+
+So theories are useful if it
+1. organizes observations
+2. implies predictions that anyone can use to check the theory or derive practical applications
+3. stimulate further research to lead to a revised theory, or be replicated & supported by similar findings
+
+### Descriptive methods
+
+- case studies (in-depth analyses of individuals or groups)
+- naturalistic observations (recording the natural behavior of many individuals)
+- surveys and interviews (asking people questions)
+
+Case study - a descriptive technique in which one individual or group is studied in depth in the hope of revealing universal principles
+- ex. brain damage
+- ex. children's minds (Jean Piaget only observed and questioned a few children)
+- ex. animal intelligence (studies of a few animals revealing their capacity for understanding and language, i.e. chimpanzees)
+
+Individual cases can suggest ideas, but they can also mislead
+- can't assume that case studies always reveal general principles that apply to us all
+
+Naturalistic observation - a descriptive technique of obesrving and recording behavior in naturally occurring situations without trying to manipulate or control the situation
+- historically "small science" (doesn't need fancy equipment or a big budget) , but technology has been enabling "big data" observations (Facebook, Twitter, Google)
+- doesn't explain behavior, only describes it
+- offers interesting snapashots/observations, but it does so without controlling for all the factors that may influence behavior
+
+Survey - obtaining the self-reported attitudes or behaviors of a particular group, usually by questioning a representative, random sample of the group
+- wording effects can affect people's expressed opinions
+	- "aid to the needy" vs "welfare"
+	- "not allowing" vs "censoring"
+	- "gun safety" vs "gun control"
+	- "revenue enhancers" vs "taxes"
+- random sampling
+	- **sampling bias** - a flawed sampling process that produces an unrepresentative sample
+	- **population** - all those in a group being studied, from which samples may be drawn
+	- **random sample** - a sample that fairly represents a population because each member has an equal chance of inclusion
+	- large representative samples are better than smaller ones, but a smaller representative sample is better than a larger unrepresentative sample
+
 ## *David Myers*. Correlation and Experimentation
 [Top](#unit-2-research-methods)
+
+### Correlation
+
+**correlation** - a measure of the extent to which two factors vary together, and thus of how well either factor predicts the other
+- while it reveals relationships, it doesn't explain them
+- correlation does not prove causation; there could be a third factor causing both variables
+
+**correlation coefficient** - a statistical index of the relationship between two things (from -1.00 to +1.00)
+
+**variable** - anything that can very and is feasible and ethical to measure
+
+**scatterplot** - a graphed cluster of dots, each of which represents the values of 2 variables; the slope suggests the direction of the relationship between the 2 variables and the amount of scatter suggests the strength of the correlation
+- positive/negative correlation (inverse?)
+- can illuminate results that we don't notice as pure data alone or on a case-by-case basis
+
+**illusory correlation** - perceiving a relationship where none exists, or perceiving a strong-than-actual relationship
+- can feed an illusion of control, that chance events are subject to our personal control
+
+**regression toward the mean** - the tendency for extreme or unusuall scores or events to fall back (regress) toward the average
+- we sometimes attribute a normal regression to be something we have done
+- when fluctuating behavior returns to normal, regression toward the mean is probably at work
+
+### Experimentation
+
+**experiment** - a research method in which an investigator manipulates independent variables to observe the effect on the dependent variable
+- by random assignment of participants, the experimenter aims to control (hold constant) other relevant factors
+- **experimental group** - the group exposed to the treatment
+- **control group** - the group not exposed to the treatment, serves as a comparison for evaluating the effect of the treatment
+- important to randomly assign people to the two conditions
+- **random assignment** - assigning participants to experimental and control groups by chance, thus minimizing preexisting differences between the different groups
+- experiments manipulate a variable to determine its effect
+
+**double-blind procedure** - both the research participants and the research staff are blind about whether the research participants have received the treatment or a placebo
+
+**placebo effect** - experimental results caused by expectations alone
+
+**independent variable** - the factor that is manipulated
+
+**confouding variable** - a factor other than the factor being studied that might influence a study's results
+
+**dependent variable** - the outcome that is measured when the independent variable is manipulated
+
+**validity** - the extent to which a test or experiment measures or predicts what it is supposed to
 
 ## *David Myers*. Research Design and Ethics
 [Top](#unit-2-research-methods)
