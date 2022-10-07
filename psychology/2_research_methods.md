@@ -150,5 +150,91 @@ Survey - obtaining the self-reported attitudes or behaviors of a particular grou
 ## *David Myers*. Research Design and Ethics
 [Top](#unit-2-research-methods)
 
+### Research Design
+
+Descriptive
+- to observe and record behavior
+- case studies, naturalistic observations, surveys
+- nothing is manipulated
+- no control of variables, single cases may be misleading
+
+Correlational 
+- to detect naturally occurring relationships, to assess how well one variable predicts another
+- collect data on 2+ variables
+- nothing manipulated
+- correlation $\neq$ causation
+
+Experimental 
+- to explore cause and effect
+- random assignment
+- manipulate the independent variables
+- sometimes not feasible, results may not generalize, not ethical to manipulate certain variables
+
+Research design:
+- pick a testable, ethical question
+- pick appropriate research design
+- consider limitations: available money+time, ethical issues
+- operational definition - how to measure the behavior/mental processes being studied
+- consider confounding variables
+- measure target behaviors and interpret results
+
+### Understanding Everyday Behavior
+
+An experiment's purpose is not to recreate exact behaviors of everyday life but to test theoretical principles that can be generalized
+- general principles that explain many behaviors
+- predict behaviors for groups of people but less strongly the behavior for an individual in any given situation
+
+### Psychology's Research Ethics
+
+Protecting research participants
+- animals
+	- is it right to place human well-being above that of other animals?
+	- what safeguards should protect the well-being of animals in research?
+	- British Psychological Society (BPS) guidelines - housing animals under reasonably natural living conditions
+	- American Psychological Association (APA) guidelines - provide "humane care and healthful conditions", and testing should "minimize discomfort"
+	- European Parliament - standards for animal care and housing
+	- universities screen research proposals, often through an animal care ethics committee, and labs are regulated and inspected
+	- animal research can also benefit animals (increase empathy + protection)
+- humans
+	- informed consent - giving potential participants enough information about a study to enable them to choose whether they wish to participate
+	- protect participants from greater-than usual harm and discomfort
+	- individual participant information confidentiality 
+	- debrief - postexperimental explanation of a study, including its purpose and any deceptions, to its participants
+	- ethics committees (institutional review boards)
+
+### Values in Psychology
+
+Labels describe and labels evaluate—they can reflect our values
+
+"professional" guidance on how to live is value-laden advice
+
+Concerns about psychology used to manipulate people
+- it can deceive
+- it can also enlighten
+
 ## *David Myers*. Statistics
 [Top](#unit-2-research-methods)
+
+### The Need for Statistics
+
+Doubt big, round, undocumented numbers
+
+Descriptive statistics - numerical data used to measure and descibre characteristics of groups
+- measures of central tendency
+- measures of variation
+
+Histogram - a bar graph depicting a frequency distribution
+
+Measures of central tendency - a single score to represent a whole set of scores
+- mode - the most frequently occurring scores in a distribution
+- mean - the arithmetic average of a distribution
+- median - the midpoint, the 50th percentile
+- similar in a bellcurve distribution
+
+skewed distribution - a representation of scores that last symmetry around their average value
+
+Measures of variation
+- range - the difference between the highet and lowest scores in a distribution
+- standard deviation - a computed measure of how much scores vary around the mean score
+
+normal curve (normal distribution) - a symmetrical, bell-shaped curve that describes the distribution of many types of data; most scores fall near the mean (68% fall within 1 standard deviation of it) and fewer near the extremes
