@@ -85,6 +85,32 @@ A lack of ACh can paralyze us
 
 ## *David Myers*. The Nervous System
 
+**nervous system** - the body's speedy, electrochemical communication network, consisting of all the nerve cells of the peripheral and central nervous systems
+- **peripheral nervous system (PNS)** - the sensory and motor neurons that connect the central nervous system to the rest of the body
+	- **somatic nervous system** - the division of the PNS that controls the body's skeletal muscles. Also called the skeletal nervous system. 
+	- **autonomic nervous system (ANS)** - the part of the peripheral nervous system that controls the glands and the muscles of the internal organs (i.e. heart). 
+		- **sympathetic nervous system* - arouses and expends energy (fight or flight)
+		- **parasympathetic nervous system** - conserves energy as it calms (rest and digest)
+		- homeostasis - steady internal state that the sympathetic+parasympathetic nervous systems keep you in
+- **central nervous system (CNS)** - the brain and spinal cord
+	- brain - neurons cluster into neural networks to have short, fast connections
+	- spinal cord - connects the PNS and the brain
+		- ascending neural fibers send up sensory information
+		- descending fibers send back motor-control information
+		- ex. **reflexes** - a simple, automatic response to a sensory stimulus, i.e. knee-jerk response
+		- ex. pain reflex - when burned, neural activity (excited by heat) travels via sensory neurons to interneurons in your spinal cord, that then activate motor neurons leading to the muscles in your arm, so your hand jerks away from the fire before your brain receives and responds to the information that causes you to feel pain
+		
+### The endocrine system
+
+
+
+types of neurons:
+- **sensory (afferent) neurons** - neurons that carry incoming information from the body's tissues and sensory receptors to the brain and spinal cord
+- **motor (efferent) neurons** - neurons that carry outgoing information from the brain and spinal cord to the muscles and glands
+- **interneurons** - neurons within the brain and spinal cord; they communicate internally and process information between the sensory inputs and motor outputs
+
+**nerves** - bundled axons that form neural cables connecting the central nervous system with muscles, glands, and sense organs
+
 ## *David Myers*. The Brain
 
 ## *David Myers*. The Cerebral Cortex
