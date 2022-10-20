@@ -99,10 +99,6 @@ A lack of ACh can paralyze us
 		- descending fibers send back motor-control information
 		- ex. **reflexes** - a simple, automatic response to a sensory stimulus, i.e. knee-jerk response
 		- ex. pain reflex - when burned, neural activity (excited by heat) travels via sensory neurons to interneurons in your spinal cord, that then activate motor neurons leading to the muscles in your arm, so your hand jerks away from the fire before your brain receives and responds to the information that causes you to feel pain
-		
-### The endocrine system
-
-
 
 types of neurons:
 - **sensory (afferent) neurons** - neurons that carry incoming information from the body's tissues and sensory receptors to the brain and spinal cord
@@ -110,6 +106,19 @@ types of neurons:
 - **interneurons** - neurons within the brain and spinal cord; they communicate internally and process information between the sensory inputs and motor outputs
 
 **nerves** - bundled axons that form neural cables connecting the central nervous system with muscles, glands, and sense organs
+
+### The endocrine system
+
+**endocrine system** - the body's "slow" chemical communication system; a set of glands that secrete hormones into the bloodstream
+- **hormones** - chemical messengers that are manufactured by the endocrine glands, travel through the bloodstream, and affect other tissues
+	- can influence the brain
+	- some are chemically identiacl to neurotransmitters
+- endocrine messages are much slower than the nervous system, taking several seconds or more to travel from the gland to the target tissue
+- endocrine messages tend to outlast the effects of neural messages
+- **adrenal glands** - a pair of endocrine glands that sit just above the kidneys and secrete hormones (epinphrine and norepinephrine) that help arouse the body in times of stress
+- **pituitary gland** - the endocrine system's most influential gland. under the influence of the hypothalamus, the pituitary gland regulates growth and controls other endocrine gland
+	- releaases a growth hormone stimulating physical development
+	- releases oxytocin, which enables contractions associated with birthing and milk flow during nursing as well as promoting pair bonding, group cohesion, and social trust
 
 ## *David Myers*. The Brain
 
