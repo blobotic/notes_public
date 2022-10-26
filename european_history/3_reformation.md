@@ -135,6 +135,37 @@ In *Against the Thievish, Murderous Hordes of Peasants*, Luther urged princes to
 	- forced labor
 - influenced anti-Semitic prejudices
 
+### 8. Catholic Spiritual Renewal
+
+before the Council of Trent, the Basque nobleman Saint Ignatius Loyola (1491-1556) founded the Society of Jesus (Jesuits)
+- underwent spiritual conversion in 1521-1522 and became a priest
+- founded the order and received papal recognition in 1540 while studying at the University of Paris
+- Jesuits
+	- special oath of obedience to the pope
+	- rejected the traditional monastic ideal of a life of contemplation and espoused a life of active service in the world
+	- committed to the Christian educaiton of youth and to missionary work among pagans and heretics
+- Jesuits became vanguard of the Roman Catholic church's resistance to Protestant errors
+- 1521-1535: *The Spiritual Exercises* - Ignatius's guide for Jesuit confessors or counselors in leading penitents to greater spiritual maturity
+	- order one's life through imitation of Christ
+	- "thinking with the Church" 
+
+
+### 9. The Catholic Response to Protestant Reforms
+
+general admission that a new general council of the church was necessary to clarify and affirm Catholic doctrine and institute reforms
+
+Popes delayed, fearing for their authority, but in 1545, in the Alpine city of Trent between Germany and Italy, the council convened
+- papacy in control
+- no Protestant theologians present
+- suspended suveral times (longest hiatus 10 years: 1552-1562)
+- ended in 1563
+- council fathers confessed their responsibility for the evils corrupting the church and committed themselves to institutional reforms
+	- raise standards of morality and learning among bishops and clergy
+- official catechism outlining the orthodox beliefs of the Roman church
+- established seminaries to direct the education of future clergy
+- increased bishop's repsonsibilities for the pastoral life of his diocese
+- condemned the Protestant view that faith alone was enough for salvation and insisted on the necessity of goodwork
+
 ## 9. The Protestant Reformation
 [Top](#unit-3-reformation)
 
@@ -330,3 +361,116 @@ economic motivations:
 
 ## 10. Catholicism Reformed and Reorganized
 [Top](#unit-3-reformation)
+
+Counter Reformation / Catholic Reformation
+- Catholic church underwent a genuine reform that may have occurred without Protestantism stimulus
+- decisions made and measures adopted responded explicitly to the Protestant challenge
+
+demand for reform expressed itself in the demand for a general church council
+- king of France and the Holy Roman Emperor jointly convened a council at Pisa in 1511 to force reforms upon Pope Julius II and if necessary depose him
+	- no delegates from other countries
+	- lacked moral authority and accomplished nothing
+- in response, the pope assembled the Fifth Lateran Council at Rome in 1512
+	- few took it serious because it composed mainly of Italian prelates
+- after the Lutheran upheaval, Charles V tried to persuade the pope to assmeble a council to fix the abuses of the church to destroy the basis of conversion
+	- French king, Francis I (1515-1547) supported the pope because he obtained control over the Gallican church via the Concordat of Bologna of 1516
+	- and he opposed Charles V because his territories (Germany, Netherlands, Spain, much of Italy) encircled and thus threatened France with "universal monarchy"
+	- so he actively encouraged Protestants and dissuaded the calling of a council
+- a council was finally convened in 1537 after a party of reforming cardinals arose
+	- war between France and the HRE forced its abandonment
+	- 1545: the council of Trent assembled and began operations
+		- 1545-1547
+		- 1551-1552
+		- 1562-1563
+
+### The Council of Trent
+
+poorly attended
+- the Fourth Lateran Council of 1215 and at Constance in 1415, 500+ prelates assembled
+- attendance at Trent was lesserand sometimes fell as low as 20-30
+- the decree on Luther's "justification", on which a number of Catholics had believed compromise was possible, was passed at a session where only 60 prelates were present
+- the most regular were the Italian and Spanish
+- much fewer French and Germans
+- conciliar movement: a party of bishops believed that the collective power of bishops from all parts of the Catholic world constituted a greater authority than the pope
+
+popes triumphed and the council voted that no act of the council should be valid unless accepted by the Holy See
+- centralizing element rather than national triumphed
+- after 1563, no coiuncil met again until the Vatican Council of 1870 where papal infallibility was proclaimed
+- so the council of Trent preserved the papacy as a center of unity for the Catholic church and prevented its dissolutions into state churches
+- gradual success b/c secular rulers still only accepted what they wanted
+
+no concessions
+- justification was by works and faith combined
+- enumerated and defined the seven sacraments, the vehicles of grace independent of the spiritual state of those who received them
+- priesthood was a special estate set apart from the laity by the sacrament o f holy orders
+- procedures of confessional and of absolution clarified
+- transubstantiation reaffirmed
+- Scripture and tradition were both equally sources of Catholic faith 
+	- rejected Protestant claim that true faith came from the Bible alone 
+	- Vulgate, St. Jerome's Latin translation from the 4th century, was the only version on which authoritative teaching could be based
+- Latin language of religious worship
+- celibacy and monstacism upheld
+- existence of purgatory reaffirmed
+- theory and correct practice of indulgences restated
+- veneration of saints, cult of hte Virgin, idolatry (images, relics, pilgrimages) = spiritually useful and pious actions
+
+reform of moanstic orders
+- bishops should reside within dioceses and attend more carefully their proper duties
+- gave bishops more administrative control over clergy who were previously exempt from episcopal jurisdiction
+- pluralism (one man held numerous church offices at the same time) was checked
+- educate clergy (seminaries set up) to ensure competency
+
+### The Counter crusade
+
+Renaissance popes were succeeded by a line of reforming popes
+- first: Paul III (1534-1549)
+- they insisted on the primacy of the papal office, and in contrast to their predecessors, they regarded it as a moral and religious force
+
+rise religious seriousness
+- bishops, on their own initiatve, became more strict
+- Catholic religious sense centered in a reverence of the sacraments and the church itself
+- new religious orders
+	- Jesuits
+	- Oratorians (men)
+	- Ursulines (women)
+	- dedicated themselves to educational and philanthropic activities
+	- missionary fervor (Asia and Americas) (the poor)
+
+Spain
+- never taken by the Renaissance, so this is where the new Catholic feeling first developed
+- St. Ignatius Loyola (1491-1556) was from Spain and founded the Jesuits after a religiou experience/conversion
+	- authorized by Paul III in 1540
+	- monastic order of a new type, more directed toward active participation in the affairs of the world
+	- arduous mystical training - defined in Loyola's *Spiritual Exercises*
+	- order ruled by an iron discipline and the belief of the infallibility of one's superior and the Holy Church
+	- otherwise favored rationality and a measure of liberty in the religious life
+	- most famous schoolmasters in Catholic Europe for 200 years (Latin classics were the main substance of adolescent education)
+	- work among the ruling classes (confessors of kings)
+	- their ultramonatism (high papalism) irritated both Catholics and Protestants alike
+
+counteroffensive against Protestantism sparked by the deepening of religious life
+- Jesuits = international missionary force
+	- poured into the most divisive regions
+	- overthrew heretic monarchs
+	- reconverted people
+- all countries censored books, both Protestant and Catholic
+	- the papal Index of Prohibited Books
+- all countries (both Protestant and Catholic) set up judicial and police machinery to enforce conformity to the accepted church
+	- Elizbeth in England: High Commission to bring recusants into the Church of England
+	- all bishops could enforce their episcopal courts
+	- Inquisition was the most severe
+		- Spanish Inquisition, established in 1480 to ferret out JEwish and Muslim survivals in Spain
+			- introduced into all countries ruled by the Spanish crown (Spanish Netherlands, an important  center of Calvinism) and employed against Protestantism
+		- Roman/papal Inquisition, established at Rome in 1542 under the Holy Office, a permanent committee of cardinals
+			- revival of the famous medieval tribunal established in the 13th century
+		- torture
+		- heresy regarded as the supreme crime
+		- in theory offered a court to protect the purity of faith, but most Catholic countries rejected both Inquisitions
+
+people converted to the faith of their governments
+- 1560: the strongest powers of Europe (Spain, France, Austria) were all officially Catholic
+- Protestant states all small/middle-sized
+- Luther states of Germany were individually of little weight
+- Scandinavian monarchies far away
+- England was the most prominent Protestant kingdom still without a colonial empire and a hostile Scotland to the north
+- had a great combined Catholic crusade ever developed, Protestantism could have been wiped out, but it never succeeded
