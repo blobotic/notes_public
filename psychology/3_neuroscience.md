@@ -8,6 +8,7 @@
 - [*David Myers*. Brain Hemisphere](#david-myers-brain-hemisphere)
 
 ## *David Myers*. The Neuron
+[Top](#unit-3-neuroscience)
 
 ### Neurons
 
@@ -84,6 +85,7 @@ A lack of ACh can paralyze us
 - example: paralyzing drugs
 
 ## *David Myers*. The Nervous System
+[Top](#unit-3-neuroscience)
 
 **nervous system** - the body's speedy, electrochemical communication network, consisting of all the nerve cells of the peripheral and central nervous systems
 - **peripheral nervous system (PNS)** - the sensory and motor neurons that connect the central nervous system to the rest of the body
@@ -121,7 +123,68 @@ types of neurons:
 	- releases oxytocin, which enables contractions associated with birthing and milk flow during nursing as well as promoting pair bonding, group cohesion, and social trust
 
 ## *David Myers*. The Brain
+[Top](#unit-3-neuroscience)
+
+Examining the head
+- case studies localized some functions (damage caused numbness or paralysis on the body's opposite side, damage to the back disrupted vision, damage to the left-front produced speech difficulties)
+- **lesion** - a naturally or experimentally caused destruction of brain tissue
+- stimulate various parts, electrically, chemically, or magnetically
+- microelectrodes for individual neurons, or overall neuron activity
+- **EEG (electroencephalogram)** - an amplified recording of the waves of electrical activity sweeping across the brain's surface, measured by electrodes placed on the scalp
+- **MEG (magnetoencephalography)** - measures magnetic fields from the brain's natural electrical activity in special rooms that cancel out other magnetic signals
+- **CT (computed tomography) scan** - a series of X-ray photographs taken from different angles and combined by computer into a composite representation of a slice of the brain's structure
+- **PET (positron emission tomography) scan** - a visual display of brain activity that detects where a radioactive form of glucose goes while the brain performs a given task
+- **MRI (magnetic resonance imaging)** - uses magnetic fields and radio waves to produce computer-generated images of soft tissue; shows brain anatomy
+	- larger than average neural area in the left hemisphere of musicians who display perfect pitch
+	- enlarged ventricles in patients with schizophrenia
+- **fMRI (functional MRI)** - reveals bloodflow and, therefore, brain activity by comparing successive MRI scans; show brain function and structure
+	- when the brain is unoccupied, blood flows via the default network (mind-wandering, daydreaming)
+	- brains are most active when people feel pain/rejection, listen to angry voices, think about scary things, feel happy, or become sexually excited
+- brain connectivity - how brain regions communicate
+	- people with major depressive disorder tend to show low connectivity between brain regions involved in experiencing emotion and emotion regulation
+
+future
+- Europe's Human Brain Project: $1 billion for brain computer modeling
+- Human Connectome Project: $40 million for neural pathways
+	- diffusion-spectrum imaging - a type of MRI technology that maps long-distance brain fiber connections
+	- discovery over 100 neural centers
+
+### Older brain structures
+
+The following functions occur without any conscious effort
+- our brain processes most information outside of our awareness
+
+**brainstem** - the oldest and central core of the brain, beginning at the medulla; responsible for automatic survival functions (heartbeat, breathing, heart's pumping)
+- **medulla** - base of the brainstem; the slight swelling in the spinal cord just after it enters the skull; controls heartbeat and breathing
+- pons - above the medulla, coordinates movements and control sleep
+- crossover point - where most nerves from each side of the brain connects with the body's opposite side
+
+**thalamus** - a pair of egg-shaped structures above the brainstem that act as the brain's sensory control center; directs messages to the sensory receiving areas in the cortex and transmits replies to the cerebellum and medulla
+
+**reticular formation** - inside the brainstem between your ears; a nerve network that travels through the brainstem into the thalamus; filters incoming stimuli and relays miportant information to other brain areas (multitasking); controls arousal
+
+**cerebellum** - the "little brain" at the rear of the brainstem
+- enables nonverbal learning and skll memory
+- helps us judge time, modulate our emotions, and discriminate sounds and textures
+- (with the pons) coordinates voluntary movement
+
+### The limbic system
+
+**limbic system** - (limbus, "border") the neural system (including the amygdala, hypothalamus, and hippocampus) located below the cerebral hemispheres; associated with emotions and drives
+
+**amygdala** - two lima-bean sized neural clusters; linked to emotion (aggression and fear)
+
+**hypothalamus** - lying below (hypo) the thalamus; directs several maintenance activities (eating, drinking, body temperature), helps govern the endocrine system via the pituitary gland, and is linked to emotion and reward
+- helps maintain homeostasis
+- tunes into your blood chemistry and any incoming orders from other brain parts to trigger the pituitary gland to release their hormones
+- other limbic reward centers are the nucleus accumbens in front of the hypothalamus
+- stimulating reward circuits produces more desire than pure enjoyment in humans
+- dopamine release = pleasure
+
+**hippocampus** - a seahorse-shaped brain structure that processes conscious, explicit memories and decreases in size and function as we grow older
 
 ## *David Myers*. The Cerebral Cortex
+[Top](#unit-3-neuroscience)
 
 ## *David Myers*. Brain Hemisphere
+[Top](#unit-3-neuroscience)
