@@ -242,3 +242,38 @@ response to damage:
 
 ## *David Myers*. Brain Hemisphere
 [Top](#unit-3-neuroscience)
+
+lateralization - left and right hemispheres esrve different functions
+- left hemisphere accidents can impair reading, writing, speaking, arithmetic reasoning, and understanding
+- similar right hemisphere damage has less visibly dramatic effects
+
+**corpus callosum** - the large band of neural fibers connecting the two brain hemispheres and carrying messages between them
+- **split brain** - a condition resulting from surgery that isolates the brain's two hemispheres by cutting the fibers (mainly those of the corpus callosum) connecting them
+	- surprisingly normal
+	- but they could quiz each hemisphere separately; ex. patients can answer that they saw a word in their right visual field (so left hemisphere) then would point with their left hand (right hemisphere)
+	- both hemispheres act independently
+	- left hemisphere can make up scenarios to rationalize reactions from the right hemisphere that it doesn't understand
+- perceptual task = increased activity in the right hemisphere; speaking/math calculation = increased activity in the left hemisphere
+- hemispheric specialization happens when surgeons inject sedatives into the patients' arteries
+
+the left hemisphere makes quick, literal interpretations of language
+
+the right hemisphere
+- excels in making inferences
+- helps us modulate our speech to make meaning clear
+-  helps orchestrate our self-awareness
+
+### The biology of consciousness
+
+**consciousness** - our subjective awareness of ourselves and our environments
+- helps us cope with novel situations and act in our long-term interests
+- **cognitive neuroscience** - the interdisciplinary study of the brain activity linked with cognition (including perception, thinking, memory, and language)
+- patients have meaningful though diminished brain responses to questions, even if their body is motionless
+- conscious experiences arise from synchronized activity across the brain
+
+**dual processing** - the principle that information is often simultaneously processed on separate conscious and unconscious tracks
+- **blindsight** - a condition in which a person can respond to a visual stimulus without consciously experiencing it
+	- damage occurs in the area associated with consciously recognizing objects
+	- visual perception track and a visual action track
+- **parallel processing** - processing many aspects of a problem simultaneously; generally used to process well-learned information or to solve easy problems
+- **sequential processing** - processing one aspect of a problem at a time; generally used to process new information or to solve difficult problems
