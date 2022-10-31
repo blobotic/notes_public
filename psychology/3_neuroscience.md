@@ -186,5 +186,59 @@ The following functions occur without any conscious effort
 ## *David Myers*. The Cerebral Cortex
 [Top](#unit-3-neuroscience)
 
+*cerebrum** - two cerebral hemispheres contributing 85% of the brainś weigh
+
+**cerebral cortex** - the intricate fabric of interconnected neural cells coverng the cerebral hemispheres; the bodyś ultimate control and information processing center
+- expands as an organism's adaptability increases
+
+### Structure of the cortex
+
+hemisphere divided into four lobes separated by fissures (folds)
+- **frontal lobes** - the portion of the cerebral cortex lying juts behind the forehead; involved in speaking and muscle movements and in making plans and judgments
+- **parietal lobes** - the portion of the cerebral cortex lying at the top of the head and toward the rear; receives sensory input for touch and body position
+- **occipital lobes** - the portion of the cerebral cortex lying at the back of the head; includes areas that receive information from the visual fields
+- **temporal lobes** - the portion of the cerebral cortex lying roughly above the ears; includes the auditory areas, each receiving information primarily from the opposite ear
+
+### Function of the Cortex
+
+motor functions:
+- **motor cortex** - an area at the rear of the frontal lobes that controls voluntary movement, on the opposite side of the body
+- mapped by stimulating diferent cortical areas and observing responses
+- brain-computer interfaces for paralyzed patients (tested on monkeys)
+	- also for speech/language/concepts
+	- cognitive neural prosthetics
+
+sensory functions:
+- **somatosensory cortex** - an area at the front of the parietal lobes that registers and processes body touch and movement sensations
+- the more sensitive, the larger the somatosensory cortex area devoted to it
+- visual information goes to the visual cortex in your occipital lobes at the back of your brain
+- sound processed by auditory cortex in temporal lobes juts above your ears
+	- auditory information travles in a circuitous route from one ear to the auditory receiving area above your opposite ear
+
+**association areas** - areas of the cerebral cortex that are not involved in primary motor or sensory functions; rather, they are involved in higher mental functions such as learning, remembering, thinking, and speaking
+- found in all four lobes
+- prefrontal cortex in the forward part of the frontal lobes - enables judgment, planning, and processing of new memories
+	- Phineas Gage
+	- Cecil Clayton
+	- damage can cause people to become les inhibited and more impulsive and disconnect them from their moral compass
+- parietal lobes enable mathematical and spatial reasoning
+- underside of the right temporal lobe enables us to recognize faces
+- many islands of brain activity work together during a complex task
+
+### The power of plasticity
+
+**plasticity** - the brain's ability to change, especially during childhood, by reorganizing after damage or by building new pathways based on experience
+
+response to damage:
+- causes for brain-damage effects
+	- severed brain and spinal cord neurons don't regenerate (permanent paralysis)
+	- some brain functions preassigned to specific areas
+- some tissue can reorganize after serious damage, especially in young children
+	- good for the blind or deaf
+	- also happens when disease or damage frees up other brain areas normally dedicated to specific functions
+- **neurogenesis** - the formation of new neurons
+	- master stem cells that can develop into any type of brain cell have been discovered
+
+
 ## *David Myers*. Brain Hemisphere
 [Top](#unit-3-neuroscience)
