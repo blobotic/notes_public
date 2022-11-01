@@ -62,7 +62,7 @@ New Devotion (*devotio moderna*)
 - spread through Netherlands, Germany, Spain during the 15th century
 - influenced Desiderius Erasmus, Martin Luther, and Saint Ignatius Loyola
 
-### 2. A Catohlic Critic of the Church
+### 2. A Catholic Critic of the Church
 
 Dutch priest Desiderius Erasmus (1466-1536)
 - influenced by New Devotion and humanistic studies
@@ -420,7 +420,7 @@ reform of moanstic orders
 - pluralism (one man held numerous church offices at the same time) was checked
 - educate clergy (seminaries set up) to ensure competency
 
-### The Counter crusade
+### The Counter Crusade
 
 Renaissance popes were succeeded by a line of reforming popes
 - first: Paul III (1534-1549)
