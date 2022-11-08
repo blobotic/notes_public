@@ -186,6 +186,106 @@ Spain's internal decline began
 ## 15. The Disintegration and Reconstruction of France
 [Top](#unit-4-religious-warfare-and-state-building)
 
+### Political and Religious Disunity
+
+the Wars of Religion were equally religious, political, and feudal rebellion
+- the New Monarcchy, resuming the work of medieval kings, united the country
+    - the country acted as a unit in foreign affairs, apart from civil war
+    - king alone made treaties
+    - subjects fought for king
+- royal centralization was largely administrative
+- underneath the platform of royalty, there was little substantial unity in France
+    - three hundred areas with their own legal systems
+    - *bonnes villes* - like the HRE's free cities, which defended their corporate rights
+    - France had provinces as great as some European kingdoms that each ahd their own identity, autonomy, laws, courts, tariffs taxes, and parliament/provincial estates
+    - diversity in religion with the spread of Calvinism (Huguenots)
+
+French Catholicism was independent from Rome and the papacy
+- French clergy struggled for its Gallican liberties
+- French kings deal rudely with popes, ignored the Council of Trent, and allied for political reasons with both the Lutherans and the Turks
+- lay investiture
+
+French Protestantism was extreme
+- 1560/1570s: >1/3 and near 1/2 of French nobility was Protestant
+    - believed in the *ius reformandi*, the right to regulate religion on their own estates
+    - turned the peasants on their lands into Huguenots
+    - primarily spread in southwestern France
+
+both Francis I and Henry II opposed the spread of Calvinism because it threatened the powers of the monarchy and the idea of a nationally established church
+- because of how prominent the French nobility featured, it looked like a political/feudal rebellion
+- 1559: Henry II was accidentally killed in a tournament
+    - 3 son, the eldest 15
+    - mother was Catherine de Medici, who tried to govern the country for her royal sons
+- with no firm hand in control of the monarchy, the country fell apart
+- the Huguenots, under persecution, took up arms
+    - they had >1/3rd of the professional warrior class, the nobles
+
+### The Civil and Religious Wars
+
+unorganized conflict - 9 civil wars in the concluding 4 decades of the 16th century in France
+- roving bands of armed men
+- prominent leaders easily gathered followers
+- peasants would take to the woods or form protective leagues (vigilantes); the bourgeois would lock the gates to their cities
+- Huguenots led by various ranks
+    - Admiral de Coligny
+    - Henry of Bourbon, king of Navarre
+    - some fought for local liberties, others wanted to drive out idolatry and popery from France
+- Catholic party rose under the Guise family
+    - headed by the Duke of Guise and the Cardinal of Lorraine
+    - wanted to exterminate heresy and to govern France
+- Catherine left in the middle
+    - at first tried to play them against each other
+    - 1572: fearing hte growing influence of Coligny and a concourse of leading Huguenots in Paris to celebrate Henry of Navarre's marriage, at the massacre of St. Bartholomew's Day, she massacred thousands of Huguenots after midnight 
+    - Coligny was killed
+    - Henry of Navarre escaped by temporarily changing his religion
+    - caused Huguenot fury and a renewal of civil war
+- both parties hired parties of mercenary soldiers, mainly from Germany
+- Spanish troops invaded at the invitation of the Guises
+- Protestant towns appealed to Elizabeth of England, but she was too preoccupied
+- truces acknowledging the status quo were common, but fighting often broke out in the midst of them because no side had the power to enforce them
+- *politiques* - developed among the more perfunctory Catholics and moderate Protestants
+    - concluded too much was being made of religion
+    - secular view
+    - Henry of Navarre and the political philosopher Jean Bodin (1530-1596), the first thinker to develop the modern theory of sovereignty
+    - idea of royal absolutism and of the sovereign state
+
+### The End of the Wars: Reconstruction under Henry IV
+
+1589: both Henry III, the reigning king, and Henry of Guise, the Catholic party chief trying to depose him, were assassinated
+
+Henry of Navarre, the Huguenot chieftain, reigned as Henry IV
+- first of the Bourbon dynasty
+- Catholic party refused to recognize him and the Huguenots had become an increasingly unpopular minority
+- 1593: Henry IV abjured the Calvinist faith and submitted to papal absolution
+    - the *politiques* and Catholics consented to work with him
+    - Huguenots, alarmed, demanded guarantees of religious liberty
+- 1598: Henry IV eissued the Edict of Nantes
+    - granted every seigneur the right to hold Protestant services in his own household and allowed Protestantism in towns where it was the prevailing form of worship, and in any case, in one town of each *bailliage* throughout the country
+    - barred Protestantism from Catholic episcopal towns and a zone surrounding Paris
+    - promised that Protestants would enjoy the same civil rights as Catholics (chance for public offices, access to Catholic universities)
+    - creatied mixed chambers of both Protestants and Catholics in certain superior law courts
+    - granted 100 fortified towns to be held by Protestant garrisons under Protestant demand
+- Huguenots were appeased, but everyone else refused to recognize the edict
+- the king forced toleration on the country
+- he worked to rebuild France, putting the ruined government back together, collecting taxes, paying officials, disciplining the army, and supervising the administration of justice
+- the Estates Gerneral was never called during his reign
+- Henry IV laid the foundations of royal absolutism
+- assassinated in 1610 by a fanatic who believed him a meance to the Catholic church
+- his widow, Marie de Medici, was forced by the upper Catholic clergy to summon the Estates General, but it was so conflicted and chaotic that Marie dismissed them in 1615 to everyone's general relief and they never met again until after the French Revolution
+
+### Cardinal Richelieu
+
+Cardinal Richelieu, a *politique*, rose to power in the name of MArie de Medici and her young son, Louis XIII
+- tried to strengthen the state economically through mercantilism
+- allowed nobles to engage in maritime commerce without loss of noble status
+- made it possible for merchants to become nobles in return for payments into the royal exchequer
+- founded and supported commercial companies on the Anglo-Dutch model
+- suppressed civil war
+    - prohibited private warfare and the destruction of all fortified castles not manned and needed by the king himself
+    - prohibited dueling
+    - 1629: amended the Edict of Nantes after a Huguenot rebellion led by Duke of Rohan based on the city of La Rochelle, which received military support from the English
+    - Huguenots lost their military and territorial rights
+
 ## 16. The Thirty Years' War, 1618-1648: The Disintegration of Germany
 [Top](#unit-4-religious-warfare-and-state-building)
 
