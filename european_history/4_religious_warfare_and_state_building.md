@@ -157,7 +157,7 @@ the English had assured their national independence and acquired an intense nati
 - took to the sea with the ruin of the Armada
 
 Netherlands:
-- 1609: Twelve Years' Truth
+- 1609: Twelve Years' Truce
     - partitioned the Netherlands farther north than in Parma's time, because the Spaniards had retaken Antwerp and other cities in the middle zone
     - Dutch: the seven provinces from the Union of Utrecht in 1579
         - since a third remained Catholic, they adopted a policy of toleration
@@ -938,7 +938,7 @@ Brandenburg and Savoy had entered the alliance to gain possible advantages
     - the grandson of Louis XIV was confirmed king (Philip V of Spain) 
         - stipulation that the French and Spanish thrones should never be inherited by the same person
 
-1714: treaety of Rastadt
+1714: Treaty of Rastadt
 
 the war was the fundamental cause of French loss of strength
 - produced poverty, misery, and depopulation
