@@ -241,7 +241,7 @@ Charles V of the HRE (1500-1558), the Archduke of Austria
 	- Count Palatine, Duke of Saxony, Margrave of Brandenburg, King of Bohemia, archbishops of Mainz, Trier, and Cologne
 - most powerful ruler of the day; symbolic head of Germany, combined his parents/grandparents' inheritances and revived concept of "universal monarchy" of Charlemagne's time
 
-## Unit 3: Reformation
+# Unit 3: Reformation
 
 **The Protestant Reformation (1560-later, generally accepted AFTER the Thirty Years' War)**
 - the laboring poor (dissatisfaction with church = wealthy ruling class, German peasant rebellion, anabaptists)
