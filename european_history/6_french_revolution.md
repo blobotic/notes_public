@@ -16,7 +16,7 @@ but the church was still deeply involved in the prevailing social system
 
 ### The Agrarian System of the Old Regime
 
->4/5 of the people were rural
+.>4/5 of the people were rural
 
 manor retained certain surviving features of the feudal age 
 - hunting rights
@@ -81,4 +81,4 @@ September 1788: the Parlement of Paris ruled that the Estates General should mee
 	- freedom of speech and press
 	- freedom from arbitrary arrest and confinement
 - were prepared to give up special privileges in taxation, in return hoping to become the preponderant political element in the state
-- since in the clergy, the higher officers were nobles, so the nobles would have 2 chambers and the Third Estate would have 1
+- since in the clergy, the higher officers were nobles, so the nobles would have 2 chambers and the Third Estate would have 
