@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/5_cognition.md",
+                "file": "european_history/6_french_revolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/5_cognition.md",
+                "file": "european_history/6_french_revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/5_cognition.md",
+                "file": "european_history/6_french_revolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/5_cognition.md"
+                "file": "european_history/6_french_revolution.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97db01893c00b5c9",
+  "active": "c1968d8638465ba0",
   "lastOpenFiles": [
+    "2023-01-25.md",
     "psychology/5_cognition.md",
     "european_history/6_french_revolution.md",
     "psychology/3_neuroscience.md",
