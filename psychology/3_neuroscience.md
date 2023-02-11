@@ -56,7 +56,7 @@ most neural signals are excitatory, although some are inhibitory
 	- broken down by enzymes
 	- or **reputake** - a neurotransmitter's reabsorption by the sending neuron
 
-### How neurotransmitters influence us
+	### How neurotransmitters influence us
 
 | Neurotransmitter | Function | Examples of malfunctions |
 | --- | ---- | --- |

@@ -15,16 +15,16 @@
 Psychology: describing and explaining behavior and the mind underlying it
 
 Basic research (increase the field's knowledge base):
-- pyschometric/quantitative psychologists - studying the measurement of our abilities, attitudes, and traits
+- psychometric/quantitative psychologists - studying the measurement of our abilities, attitudes, and traits
 	- neurocognitive or personality tests or devise new tests for use in clinical/school/business/.industry
 	- design, analyze, and interpret results of research programs
 - biological psychologists - exploring the links between body and mind
 - developmental psychologists - studying our changing abilities from birth to death
 	- age-related behavioral changes
 	- educational, child-care, policy
-	- eudcational psychology, school psychology, child psychopathology, gerontology
+	- educational psychology, school psychology, child psychopathology, gerontology
 	- education and child-care reform, maternal and child health, attachment and adoption
-- cognitive psychologists - experiencing how we perceiveperceive, think, and solve problems
+- cognitive psychologists - experiencing how we perceive, think, and solve problems
 	- study human thinking
 	- perception, language, attention, problem solving, memory, judgment, decision making, forgetting, intelligence
 - educational psychologists - studying influences on teaching and learning
@@ -42,9 +42,9 @@ Applied research (solve practical problems):
 - industrial-organizational (I/O) psychologists - psychology in the workplace to help select and train employees, boost morale and productivity, design products, and implement systems
 	- relationship between people and their working environments
 	- increase productivity, improve personnel selection, or promote job satisfaction in an organizational setting
-	- origanizational structure, consumer behavior, personnel selection and training
+	- organizational structure, consumer behavior, personnel selection and training
 - human factors psychologists - interaction of people, machines, and physical environments
-- foresnic psyhcologists - psychological principles to legal issues
+- forensic psychologists - psychological principles to legal issues
 	- research on law and psychology, public policies related to mental health, criminal investigation, jury selection and deliberation processes
 	- most are clinical psychologists, although many have expertise in social/cognitive psychology, some have law degrees
 - environmental psychologists - study interaction of individuals with their natural and urban environments
@@ -60,7 +60,7 @@ Applied research (solve practical problems):
 - rehabilitation psychologists - work with people who have lost optimal functioning
 - school psychologists - assessment and intervention for children in educational settings
 - sports psychologists - psychological factors that influence and are influenced by sports and other activities
-	- coah education, athlete preparation, anxiety or substance abuse
+	- coach education, athlete preparation, anxiety or substance abuse
 
 Helping profession:
 - counseling psychologists - help people cope with challenges and crises to improve personal and social functioning
@@ -261,19 +261,19 @@ Roots of psychology:
 	- Descartes: some ideas are innate
 	- Charles Darwin's theory of natural selection
 - evolutionary psychology: focuses on how humans are alike because of common biology and evolutionary history
-- behavior genetics: how do we individually differ becaues of our differing genes and environments
+- behavior genetics: how do we individually differ because of our differing genes and environments
 
 #### Cross-Cultural and Gender Psychology
 - culture (shared ideas and behaviors that one generation passes on to the next) matters
 	- shapes behavior
-- same underlying processes guide people everywhere becaues of shared biological heritage
+- same underlying processes guide people everywhere because of shared biological heritage
 	- learning disorders: same brain malfunction
 	- all language share deep principles of grammar, body language
 	- loneliness spurred by shyness, low self-esteem, and being unmarried
 - gender differences in what we dream, how we express and detect emotions, etc
 
 #### Positive Psychology
-- postiive psychology: research on human flourishing rather than a focus on diseases/troubles/challenges
+- positive psychology: research on human flourishing rather than a focus on diseases/troubles/challenges
 
 ### The Biopsychosocial Approach and Psychology's Theoretical Perspectives
 
