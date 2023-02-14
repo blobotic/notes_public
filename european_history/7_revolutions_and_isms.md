@@ -574,9 +574,165 @@ Repeal of the Corn Laws in 1846
 
 # 57. Triumph of the West-European Bourgeoisie
 
+golden age for the West-European bourgeoisie, someone who is not of the nobility but enjoyed an income from business, a profession, or the ownership of property
+- artists, literary people, and old-line aristocrats disdained them as uncultivated and only interested in amking money
+- social theorists and working-class leaders: bourgeois was someone who could hire others to work for him, i.e. the bourgeois was the employer
+- whereas the bourgeoisie was formerly identified in contrast to the nobility, it was now identified in contrast to the working class; they became more alike to the aristocracy ("new aristocracy")
 
+"stake in society" liberal doctrine
+- those who have something to lose should govern
+- most of the bourgeoisie were enfranchised
+- in Britain, the continuation of Tory landed interest blunted liberalism and led to significant legislation for the protection of industrial labor, which wasn't seen in France
+
+consequences of the bourgeoisie 
+- nations accumulated capital and national income steadily rose, although little went to the laboring class and more was spent on reinvestment rather than consumers' goods
+	- new stock companies formed
+	- law of corporations amended
+- factory system spread to the Continent
+- railroad building set in earnest after 1840
+- much capital exported
+- western England and especially England took the lead in a world economic system
+
+## The Frustration and Challenge of Labor
+
+France and Britain became committees of the bourgeois class
+- worry for the prolteriat, those at the bottom of society
+- republicans and radical democrats felt cheated, because they had fueled the revolution but had been left without the right to vote
+- tempted to destroy the system when told that they couldn't change the system, and their only hope was leaving the working class altogether
+
+emphasis of the labor market, where prices would fluctuate in accordance to changes in supply and demand
+- Poor Law of 1834 was abhorrent because while it contributed to poor relief, it safeguarded the labor market by making relief highly unpleasant
+
+increase in productivity is what improved the condition of the workers in the long run
+
+two means of escape:
+1. improve the position of labor in the market
+	- formation of labor unions, which were illegal in France and barely legal in Britain, although it was still illegal in both countries to strike
+2. repudiate idea of a market economy and capitalism
+	- goods produced for use and working people compensated according to need
+	- basis of most forms of nineteenth-century socialism
+
+## Socialism and Chartism
+
+Socialism in France:
+- blended with revolutionary republicanism
+- revival of interest in the great Revolution and the democratic Republic of 1793
+- idolized Robespierre's writings
+
+Socialism in Britain:
+- blended with the movement for further parliamentary reform
+- advanced by the working-class Chartists (they drafted a People's Charter in 1838)
+
+Chartists:
+- more of a mass movement than French socialism; few thought themselves as socialists, but all were anticapitalistic
+- first step was to win working-class representation in Parliament
+- Charter of 1838
+	1. annual election of the House of Commons 
+	2. universal suffrage for all adult males
+	3. secret ballot
+	4. equal electoral districts
+	5. abolition of property qualifications for membership in the House of Commons
+	6. payment of salaries to the elected members of Parliament, so that people of small means could serve
+- convention met in London in 1839
+- petition of over a million signatures urging the acceptance of the Charter submitted to the House of Commons
+- wave of riots, which was quelled by authorities
+- 1842: petition again submitted, signed by 3,317,702 people (out of GB's 19 million population)
+- House of Commons again rejected the petition by 287 votes to 49
+- irrationally feared that political democracy would threaten property rights and the entire economic system
+- Chartist movement gradually died down
+
+Overall:
+- liberal, richer West that favored nationality
+	- society rested on a working class that was repressed but hopeful, which resulted in the Revolution of 1848
+- East of three autocratic monarchies that opposed principles of nationality
 
 # 58. Paris: The Specter of Social Revolution in the West
+
+the July Monarchy and the Chamber of Deputies became increasingly unrepresentative 
+- strong movement to give the vote to more people instead of 1/30
+- radicals wanted universal suffrage and a republic
+- liberals wanted greater voting rights in the existing constitutional monarchy
+- king Louis Philippe and his prime minister Guizot opposed all change, refusing to ally the liberals against the radicals
+
+## The "February" Revolution in France
+
+February 22, 1848: reformers planned a banquet in Paris with demonstrations in the street, against the king's expressed wishes
+- night barricades built in the working-class quarters
+- government called out the National Guard, which refused to move
+- king promised electoral reform, but republican firebrands took charge
+	- demonstreation outside the house of Guizot, wher 20 people died because someone shot at the guards and the guards shot back
+	- republicanss paraded some of the corpses in a cart through the city
+
+February 24: Louis Philippe abdicated and fled to England
+- the February Revolution unseated a monarch in just three days, like the July Revolution
+- constitutional reformers wanted Louis Philippe's young grandson as king, but the republicans forced the Chamber of Deputies to proclaim the Republic
+	- provisional government of 10 men, election by all France of a Constituent Assembly
+	- 7 were political republicans, 3 were social republicans
+	- Louis Blanc, a social republican, urged the provisional government to push through a bold economic and social program, but because they were the minority, it was to little effect
+		- Ministry of Progress to organize "social workshops" (collectivist manufacturing establishments) turned into a Labor Commission with limited power and a system of "national" shops instead of "social"
+			- workshops agreed to only as a political concession and no significant work was ever assigned
+			- Labor Commission unable to win public acceptance for the ten-hour day
+	- abolition of slavery in the French colonies
+
+National Workshop
+- extensive project in unemployment relief as the number of legitimate unemployed rapidly increased because 1847 was a year of depression and revolution only exacerbated that
+
+May 4: Constituent Assembly elected in April by universal male suffrage, met
+- replaced Provisional Government with a temporary executive board of its own
+- no "social" republicans; the new board were all members were Louis Blanc's enemies 
+
+## The "June Days" of 1848
+
+Revolutionary leaders became dissatisfied with the processes of majority rule and slow parliamentary deliberation, and they held no hesitation to violating elected assemblies
+
+in National Workshops, where tens of thousands of the most distressed elements of the working class gathered to spread ideas, revolution stirred
+- May 15: they attacked the Constituent Assembly, declared it dissolved, and set up a new provisional government of their own
+	- needed a social revolution, after the purely political revolution of February
+- National Guard turned on the insurgents and restored the Constituent Assembly
+- Assembly abolished the workshops, offering the workers to join the army, transfer to provincial workshops, or to be put out of Paris by first
+- laboring class in the city resisted, so the government proclaimed martial law and the civilian executive board resigned
+- "Bloody June Days": June 24 to 26, 1848
+	- over 20k men from the workshops took to arms, joined by thousands from working-class districts in the city
+	- built a labyrinth of barricades in Paris
+	- civilians shot out with soldiers
+	- ultimately, the army triumphed, with 10k people killed or wounded and 11k taken prisoner, the Assembly declaring their immediate deportation to colonies
+
+Consequences of the June Days
+- class war had broken out
+- militant workers confirmed hatred and loathing of the bourgeois
+- people above the laboring class panicked and were terrified of revolution
+
+Chartist temporarily revived by the February Revolution in Paris again but soon suppressed by the government due to a spy on the day of the insurrection
+
+## The Emergence of Louis Napoleon Bonaparte
+
+after the June Days, the Constituent Assembly drafted a republican constitution
+- create a strong executive power in the hands of a president to be elected by universal male suffrage
+- Louis Napoleon Bonaparte, one of four candidates, was overwhelmingly elected in December 1848
+
+Louis Napoleon Bonaparte 
+- born in 1808, Napoleon's nephew, his father, Louis Bonaparte, was the king of Holland
+- elected because he was compromised neither by the June Days nor by their repression (since he had been exiled to the fortress of Ham after a failed attempt at seizing power to reclaim the glory of the empire, before walking out and joining several international revolutions), a supposed friend of the common people, a believer in order, and his name was Napoleon Bonaparte
+	- name of Bonaparte was valuable because it was the only name many peasants had heard of
+
+the Constituent Assembly dissolved itself in May 1849 and was replaced by the Legislative Assembly provided for in the new constitution
+- royalist majority, but divided into irreconcilable factions (Legitimists, who favored the line of Charles X, and the Orleanists, who favored that of Louis Philippe)
+- a third were republicans (some were socialists, others were old-fashioned/political republicans who only cared about the form of government)
+- president and Assembly wanted to suppress socialism
+- chance from an insurrection of june 1849
+	- Assembly suppressed public meetings, imposed control on the press, and rescinded universal male suffrage (from the poorest, most socialistic third of the electorate)
+	- Falloux Law of 1850: put schools under the supervision of the Catholic clergy
+	- now antirepublican, it intervened against the revolutionary republic established by Mazzini in Rome, protecting the pope
+
+Bonaparte knew that he had support of the monarchists because they would rather accept an antisocial regime than yield to the other faction
+- needed to win over the radicals
+- 1851: urged the restoration of universal suffrage after repealing it in 1850
+- postured as people's friend
+- December 2, 1851: he sprang his coup d'etat, dissolving the Assembly and reinstating the vote for every adult Frenchman
+- on December 20th, he was elected president for a term of 10 years
+- a year later, he proclaimed the empire and himself as Napoleon III, Emperor of the French
+
+the republic had been dead sine June 1848; liberalism and constitutionalism was dead; France ceased to have any significant parliamentary life
 
 # 59. Vienna: The Nationalist Revolution in Central Europe and Italy
 
