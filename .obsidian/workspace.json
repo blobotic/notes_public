@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25633474faaf2b4f",
+            "id": "671ecf3ab998c0d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/5_cognition.md",
+                "file": "european_history/7_revolutions_and_isms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e23c042b4fc8504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "european_history/6_french_revolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/5_cognition.md",
+                "file": "european_history/7_revolutions_and_isms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/5_cognition.md",
+                "file": "european_history/7_revolutions_and_isms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/5_cognition.md"
+                "file": "european_history/7_revolutions_and_isms.md"
               }
             }
           }
@@ -147,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "156548aafdde4790",
+  "active": "671ecf3ab998c0d9",
   "lastOpenFiles": [
+    "european_history/6_french_revolution.md",
+    "european_history/7_revolutions_and_isms.md",
+    "psychology/5_cognition.md",
     "psychology/3_neuroscience.md",
     "european_history/1_early_modern_medieval_europe.md",
     "psychology/1_history_and_approaches.md",
     "psychology/1_notes.md",
-    "psychology/5_cognition.md",
     "psychology/2_research_methods.md",
     "european_history/5_scientific_revolution_and_enlightenment.md",
-    "european_history/0_summative.md",
-    "european_history/6_french_revolution.md",
-    "2023-01-25.md"
+    "european_history/0_summative.md"
   ]
 }
