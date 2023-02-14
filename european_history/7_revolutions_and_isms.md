@@ -422,7 +422,159 @@ but it led to greater repression in Russia
 
 # 56. The Breakthrough of Liberalism in the West: Revolutions of 1830-1832
 
+By 1825, Spanish America was independent, and GB and France had pulled away from the Congress system
+
+Greek nationalist movement
+- after Ypsilanti's defeat in 1821, they turned to independence for Greece proper
+- Tsar Nicholas assisted the movement, and GB and France didn't want to let Russia be the only champion of the Balkan peoples
+	- western view of Greeks: ancient Athenians fighting the modern oriental despotism of the Turkish empire
+	- joint Anglo-French-Russian naval intervention, then a Russo-Turkish land war and a great Near Eastern crisis
+	- 1829: recognized Greece as an independent kingdom
+	- Serbia, Wallachia, and Moldavia recognized as autonomous principalities
+	- Egypt as autonomous region
+
+## France, 1824-1830: The July Revolution, 1830
+
+July Ordinances:
+- in response to efforts to revive the Old Regime
+	- Charles X became king in 1824
+	- indemnity, perpetual annuities of 30 million francs/year for the emigres who had had their property confiscated
+	- Catholic clergy  took over classrooms
+	- death penalty for sacrilege
+- March 1830: Chamber of Deputies passed a vote of no confidence in the government
+	- king dissolved the Chamber in response and called for new elections
+	- elections repudiated king's policies
+- July 26, 1830: Charles issued four ordinances
+	1. dissolved the newly elected Chamber
+	2. imposed censorship on the press
+	3. amended suffrage, moving power from bankers, merchants, and industrialists to the old-fashioned aristocracy
+	4. called for a new election
+
+July Revolution: July 27-29, in response to the July Ordinances
+- republicans (revolutionary workers, students, and intelligentsia in Paris) moved
+- barricades in Paris
+- army refused to fire
+- Charles X abdicated and fled to England, unwilling to be held captive like Louis XVI
+
+New government:
+- some leaders wanted a democratic republic
+- working people wanted better conditions of employment
+- political liberals wanted to continue a more liberalized constitutional monarchy with a trustworthy king
+- the Marquis de Lafayette came forward as a symbol of national unity, offering the Duke of Orleans, a distant relative of the Bourbons, as the new king
+	- reigned until 1848 as Louis Philippe
+
+Orleanist/bourgeois/July Monarchy
+- to other states of Europe and to clergy/legitimists in France, it was shockingly revolutionary
+	- owed his throne to a resurrection and promises with the bourgeois/parliament
+	- "king of the French"
+	- flew tricolor French flag instead of the Bourbon flag
+	- publicly strictly adhered to the constitution
+		- constitution mostly the same as 1814, except it was changed to forbid absolutism
+		- Chamber of Peers ceased to be hereditary and the Chamber of Deputies elected by double the number of voters
+		- the upper bourgeoisie benefited the most
+- to the big property owners, political progress ended here
+- to others (particularly radical democrats), it was a disillusionment and an annoyance
+
+## Revolutions of 1830: Belgium, Poland, and Elsewhere
+
+Dutch and Belgium: joined by the Congress of Vienna to create a buffer state against France
+- while it was economically beneficial, it crumbled politically
+	- absolutist Dutch king vs. Belgians who wanted to preserve their local liberties
+	- when the king took arms against them, they proclaimed independence (instead of just asking for local Belgian self-government)
+	- national assembly met and drafted a constitution
+
+Poland: buffer state against Russia
+- Nicholas wanted to suppress the Belgian uprising, but the Poles objected to this and saw opportunity in the French revolutions
+- January 1831: Polish diet proclaimed the dethronement of the Polish king (Nicholas)
+	- in response, Nicholas sent in an army
+	- without support, they were crushed
+		- British government busy with internal agitation
+		- French government didn't want to appear disturbingly revolutionary
+- contributed to the success of the west-European revolution of 1830 by blocking Russia
+
+France and Belgium wanted to merge, but Louis Philippe didn't want to cause trouble with the British, so the Belgians elected Leopold of Saxe-Coburg, a German princeling who had married into the British royal family
+- Treaty of 1831: made Belgium a perpetually neutral state, incapable of forming alliances and guaranteed against invasion by all five Great Powers
+- stable parliamentary system, more democratic than the July Monarchy in France but essentially liberal and bourgeois
+
+liberalism was established in Switzerland
+
+Spain entered a period of civil wars and torturous parliamentary development
+
+Italy and Germany: the 1830 uprisings were quickly put down
+
+## Reform in Great  Britain
+
+England was already reforming to become steadily more liberal, the Tory regime loosening
+- reduced tariffs and liberalized the old Navigation Acts
+- allowed skilled workers to emigrate from England and for manufacturers to export machinery to foreign countries
+- moved toward freedom of trade
+- undermined legal position of Church of England, becoming more secular
+- repealed Test Act of 1673 and adopted the Catholic Emancipation
+	- Catholics received the same rights as others
+- capital punishment abolished for ~100 offenses
+- professional police force introduced
+
+couldn't reform the Corn Laws, which protected their income, or the House of Commons, which they ruled by
+- House of Commons had never been so unrepresented; no new boroughs had been created since the Revolution of 1688, and existing ones were concentrated in the South (many barely inhabited or controlled by corporations) despite the population migrating north to unrepresented factory towns
+
+reforming the House of Commons
+- two dozen bills introduced and failed prior to 1830
+- 1830: the Whigs (the minority party) raised the issue again
+	- the Tory prime minister, the Duke of Wellington, so immoderately defended the existing system that he lost the confidence of some of his own followers
+	- Whig ministry then took over the government and introduced a reform bill
+	- when the House of Commons rejected it, they resigned
+	- the Tories, fearing popular violence, refused to take responsibility, so the Whigs resumed office and reintroduced their reform bill, which failed in the House of Lords
+	- riots spread across England: only the passage of the bill could prevent an actual revolution
+	- Whigs convinced king to promise to create enough peers to change the majority in the House of Lords, so the House of Lords yielded before it could happen
+- Reform Bill of 1832 passed in April 1832
+	- adapted the English/medieval system instead of the continental/French constitutions
+		- members of the House of Commons represented boroughs and counties, inconsiderate of the size of population
+		- complicated (although simplified) qualification for voting, depending on rents (instead of land because many important people didn't own any land)
+	- redistribution by region and by class, reallocating seats in the House of Commons
+		- 56 of the smallest older boroughs were abolished
+		- 30 other small boroughs kept the right to send only one burgess to Parliament instead of 2
+		- 143 seats given to new industrial towns, where the middle classes voted
+
+no violent revolution in Britain because Parliament provided means by which social changes could be legally accomplished while enjoying universal respect
+
+## Britain after 1832
+
+new business interests joined the old aristocracy in the governing elite
+
+Liberal party: aristocratic Whigs merged with radical industrialists and some Liberal Tories
+
+Conservative party: main body of the Tories, a fwe old Whigs, and a few former radicals
+
+the two parties alternated in power (Liberal-Conservative two-party system) until the First World War
+
+Liberal consequences:
+- 1833: slavery abolished
+- 1834: Poor Law adopted
+- 1835: Municipal Corporations Act modernized the local government of English cities, breaking up old oligarchies and bringing in uniform electoral and administrative machinery
+- 1836: House of Commons allowed newspapers to report on their votes 
+	- step toward publicity of government proceedings
+- commission reviewed the Church of England and corrected their corruption
+
+Tories in turn became champions of industrial workers
+- social evils of rapid and ruthless industrialization
+- Factory Acts of 1833 forbade child labor of children under 9
+	- first effective one b/c it provided for paid inspectors and procedures for enforcement
+- Act of 1842: forbade employment of women and girls and of boys under 10 in coal mines
+- Ten Hours Act in 1847: limited women and child labor to 10 hours a day, which caused men to also only work 10 hours
+
+Whig-liberal-radical established an Anti-Corn Law League in 1838
+- tariff on grain imports kept food prices up, as well as wages and cost of production
+	- England's disadvantage in the export trade
+- defenders argued that it was necessary to preserve the aristocracy and to preserve a balanced economy between industry and farming
+
+Repeal of the Corn Laws in 1846
+- reaffirmed revolutionary consequences of the Reform Bill of 1832, industry was now a governing force
+- free trade was now the rule and England became dependent on imports and the maintenance of a freely exchanging worldwide economic system
+- also depended on British control of the sea, which was taken for granted and rarely mentioned
+
 # 57. Triumph of the West-European Bourgeoisie
+
+
 
 # 58. Paris: The Specter of Social Revolution in the West
 
