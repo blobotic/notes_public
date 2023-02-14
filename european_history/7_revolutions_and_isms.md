@@ -736,8 +736,274 @@ the republic had been dead sine June 1848; liberalism and constitutionalism was 
 
 # 59. Vienna: The Nationalist Revolution in Central Europe and Italy
 
+## The Austrian Empire in 1848
+
+the empire ruled from Vienna included Austria, Hungary, and Czechoslovakia, with parts of Poland, Romania, Yugoslavia, and Italy
+- most influential member of the German confederation, subordinating Prussia
+- Lombardy and Venetia in Italy were also a part of the Austrian Empire, while Tuscany was governed by a Habsburg grand duke, and the kingdom of Naples was virtually a protectorate of Vienna
+
+they had felt the stirrings of a cultural nationalism, but Metternich, in Vienna, had discouraged this, predicting that if allowed to break out, it would produce the *bellum omnium contra omnes*
+- he avoided the nationalities question, the fundamental problem of the century
+- only offered the dated idea that a reigning house, with an official bureaucracy, should rule benevolently over people without the need for any connection
+
+## The March Days
+
+March 3: the Hungarian diet's leader, Louis Kossuth, gave a speech on the virtues of liberty
+- heightened restlessness with the news from Paris
+
+March 13: workingmen and students rose in insurrection in Vienna and invaded the imperial palace
+- Metternich resigned and fled in disguise to England
+
+revolution swept through the empire, Italy, and Germany
+- March 15: rioting began in Berlin and the king of Prussia promised a constitution
+- March 31: a Pre-Parliament met to arrange an all-German national assembly
+- March 15: the Hungary diet enacted the March Laws
+	- Hungary assumed a position of complete constitutional separatism within the empire, while still recognizing the Habsburg house
+	- Bohemia was granted the same status a few days later
+- March 18-22: in Milan, the populace drove out the Austrian garrison, Venice proclaimed itself an independent republic, Tuscany drove out its grand duke and set up as a republic
+- March 23: king of Sardinia, Charles Albert, declared war on Austria and invaded Lombardy-Venetia, and had granted a constitution on March 4
+
+consequences:
+- Austrian Empire fell
+- Prussia yielded to revolutionaries
+- Germany prepared to unify itself
+- war raged in Italy
+- constitutions promised by governments, constitutional assemblies meeting, independent/autonomous nations appeared
+- patriots demanded liberal government and national freedom
+- serfdom declared abolished
+
+## The Turning of the Tide after June
+
+the revolution began ebbing in June
+- old governments bided time to take back promises extorted by force
+- revolutionary force was weak and internally divided: bourgeois interests were weakly developed and the working class wasn't as literate, so the middle and lower class began turning on and fearing each other
+- peasants held no interest in revolution after emancipation and held no concept of nationality
+
+the all-German national assembly met at Frankfurt in May
+- Bohemia refused the invitation to attend and called an all-Slav congress of their own in Prague in June 1848
+- continued the spirit of the Slavic Revival (i.e. anti-German), although it wasn't as anti-Austrian or anti-Habsburg
+
+## Victories of the Counterrevolution: June-December
+
+Habsburg didn't want anything to do with national movements, because they were also liberal
+- June 12: the Habsburg army took control of Prague and dispersed the Slav congress
+- they then destroyed Italy 
+	- Radetsky, the Austrian commander in Italy, overwhelmingly defeated the king of Sardinia at Custozza on July 25
+	- restored Lombardy and Venetia
+- Count Jellachich, the provincial governor of Croatia, led a force of Serbo-Croatians, supported by the non-Magyar half of the country, against the Magyar national party in Hungary
+	- became Emperor Ferdinand's military commander against the Magyars
+
+October 1848: the revolutionaries saw the threat of Jellachich's army, so they rose in a second mass insurrection
+- the emperor fled, but an Austrian military leader besieged Vienna for five days and forced its surrender on October 31
+- counterrevolutionary leaders decided to clear the way by getting rid of Ferdinand, who ultimately abdicated; on December 2, 1848, Francis Joseph succeeded him
+
+## Final Outburst and Repression, 1849
+
+upheaval in Rome and Germany
+- Pope Pius IX, now disillusioned by liberalism
+
+August 1849: Emperor Francis Joseph invited Tsar Nicholas to intervene in Hungary and with the Magyars
+
+reaction/antirevolutionism became the order of the day
+
+Bach system:
+- tried to create a perfectly solid and unitary political system of unparalleled administrative efficiency and material progress over Hungary to make the people forget about liberty
+- although they never did
+
 # 60. Frankfurt and Berlin: The Question of a Liberal Germany
+
+## The German States
+
+the Frankfurt Assembly possible b/c of the collapse of the existing German governments in the March Days of 1848
+- German "dualism" between Berlin (Prussia) and Vienna (Austria), the two largest states
+
+## Berlin: Failure of the Revolution in Prussia
+
+Prussian monarchs (Frederick William III and his successor, Frederick William IV, who inherited the throne in 1840) were determined to avoid a modern constitution and the idea of sharing authority with their subjects
+- government was efficient, progressive, and fair
+- school/education surpassed those of western Europe, and literacy rates were higher than England or France
+- mercantilist tradition of planning and supporting economic life
+	- 1818: tariff union with tiny states enclosed within Prussia, later extended to include almost all of Germany
+
+March 15, 1848: rioting broke out in Berlin
+- Frederick William IV called off the soldiers and let the his subjects elect the first all-Prussian legislative assembly
+	- surprisingly radical
+	- dominated by anti-Junker lower-class extremists from East Prussia
+	- supported Polish revolutionaries
+	- believed that the fortress of reaction was tsarist Russia
+	- hoped to destroy the Holy Alliance by raising an all-German or European revolutionary war against Russia
+	- granted local self-government to the Poles of West Prussia and Posen, but the Germans refused to respect the authority of Polish officials and the Prussian army crushed the new pro-Polish institutions when the king changed his mind and the old authorities, through the army, were back in control
+
+## The Frankfurt Assembly
+
+disabling of the old governments left a power vacuum, so a self-appointed committee convoked a Pre-Parliament, which arranged for the election of an all-German assembly
+- bypassed existing sovereignties
+- voters sent delegates to Frankfurt to create a federated superstate
+- represented moral sentiment of people at large
+	- liberal and national aspirations
+- no political power or preexisting national structure for it to work with
+- became dependent on the power of the sovereign states that it was trying to superseded
+
+May 1848: the assembly met
+- members weren't revolutionary, overwhelmingly professional people
+- wanted a liberal, self-governing, federally unified, and "democratic" (but not equalitarian) Germany
+	- hoped to succeed by persuasion, not violence
+	- but they couldn't be successful without lower-class insurrection
+- September 1848: when radical riots broke out in Frankfurt, the Assembly appealed to the Prussian army to repress them and then met under its protection
+
+Question of what Germany was and contained
+- most were Great Germans: thought Germany should include all the Austrian lands except for Hungary
+	- needed to offer the federal crown to the Habsburgs
+- others were Little Germans, wanted Austria excluded
+	- king of Prussia would become the federal emperor
+
+the Assembly depended on the Austrian and Prussian armies because they wanted to retain non-German people in the new Germany
+- ex. when Windischgratz broke the Czech revolution
+- when Prussian forces put down the Poles in Posen
+- diff between the Frankfurt Assembly and the Berlin Assembly
+- Schleswig: the Assembly needed the Prussian army, but they withdrew when GB and Russia prepared to intervene, because they didn't want to antagonize them
+- fatal dependency on Austrian/Prussian forces
+
+## The Failure of the Frankfurt Assembly
+
+nationalists, bickering amongst themselves, hastened the return of the old absolutist and nonnational order
+
+December: the Frankfurt Assembly issued a Declaration of the Rights of the German people
+- similar to French and American declarations
+- announced individual rights, civil liberties, and constitutional guarantees  for the German people
+- because Austria and the Danubian empire refused to join, the Little Germans had their way and they offered the crown to Frederick William IV, the king of Prussia
+	- while tempted, he would have to force himself on the lesser states because the Frankfurt Assembly had no power, so he declared that he would not "pick up a crown from the gutter" 
+- hence Frankfurt Assembly rendered useless
+
+## The Prussian Constitution of 1850
+
+Prussian monarch issued a Prussian constitution of his own, effective from 1850-1918
+- granted a single parliament for all the miscellaneous regions of Prussia, which met in two chambers
+	- lower chamber = elected by universal male suffrage that divided the population into three states (the wealth, the less wealthy, and the common people) according to pay of taxes
+- fairly progressive, despite the massive favoritism to large property owners
+- but in 1918, because it remained unchanged, it became reactionary and illiberal
 
 # 61. The New Toughness of Mind: Realism, Positivism, and Marxism
 
-# Revolutions of 1848
+The Revolution of 1848 = "the springtime of the peoples" 
+- failed in Germany, Hungary, Italy, and France
+- visions of a humane nationalism, aspirations for liberalism without violence, ideals of a peaceful and democratic republican commonwealth, all exploded
+
+consequences of the 1848 revolutions:
+- nowhere was national liberty more advanced in 1850 than two years prior
+- one accomplishment: peasantry emancipated in the German states and Austrian empire
+	- peasant emancipation strengthened the forces of political counterrevolution 
+- new toughness of mind: idealism discredited
+	- revolutionaries less optimistic
+	- conservatives more willing to repress
+	- proud to be realistic and not idealistic
+	- industrialization charged forward
+
+## Materialism, Realism, Positivism 
+
+mental toughness appeared as materialism in basic philosophy
+- everything mental, spiritual, or ideal was an outgrowth of physical or physiological forces
+- "realism" in literature and the arts
+- broke away from romanticism
+- increased trust in science
+- skepticism toward religion because it was unscientific and irrelevant to modern civilization/unserious
+	- radical counterpart: religion was a bourgeois invention to delude the people
+
+positivism
+- originated wit the French philosopher Auguste Comte, who published volumes on *Positive Philosophy* from 1830 into the 1850s
+- human history as a series of three stages: the theological, the metaphysical, and the scientific 
+- revolutions of France suffered from excess metaphysical abstractions
+- elaborate classification of the sciences; people need to adopt a strictly scientific outlook
+- insistence on verifiable facts, avoidance of wishful thinking, questioning of all assumptions, dislike of unprovable generalizations
+- demand for observation of facts and testing of ideas
+- aspiration to be humanly useful
+
+*Realpolitik* - politics of reality
+- give up on utopian dreams and be content with an orderly, honest, hard-working government
+	- radicals: no hope for new society resulting from goodness or love of justice
+	- social reformers needed to resort to methods of politics (power and calculation)
+- governments shouldn't be guided by ideology; instead, follow their own practical interests and make alliances as necessary, disregard tastes and scruples, use any practical means to achieve their ends
+- war accepted as an obvious means sometimes necessary to achieve a purpose
+
+## Early Marxism
+
+Marx (1818-1883)
+- son of a lawyer in the Prussian Rhineland, studied law and philosophy at German universities
+
+Engels (1820-1893)
+- son of a well-off German textile manufacturer, sent to Manchester in England to learn the business and then manage it
+
+1844: Marx and Engels met in Paris and began a collaboration in thinking and writing 
+- 1847: joined the Communist League, aka the German branch of the French secret societies
+	- crushed after the triumph of the counterrevolution in Germany
+	- January 1848: Marx and Engels wrote their *Communist Manifesto* for this League
+	- Engels returned to his factory at Manchester, and Marx settled in London (ultimately producing *Capital*)
+
+## Sources and Content of Marxism
+
+Marxism mixed Germany philosophy, French revolutionism, and the British Industrial revolution
+- Marx had mingled with the Young Hegelians as a student in Germany
+	- resisted repressive measures that prevailed in Germany after Napoleon's defeat
+	- believed that the promise of the French Revolution had not yet been fulfilled because of the lack of social and economic equality, after civil and legal equality already won
+	- hoped for more personal emancipation from society, government, and religion
+- "alienation" - when people become estranged from product b/c of mechanization, the commercialization of labor, and the ownership of property by others than the workers
+
+belief that true freedom was only possible when private property in capital goods was abolished
+
+1844: Engels published *The Condition of the Working Classes in England*
+- drew the same conclusions from facts that Marx drew from philosophical analysis and historical study
+
+*Communist Manifesto* - a summons to revolution
+- outbreak of revoluition in France in February confirmed their beliefs
+- June Days in Paris was taken as a manifestation of a universal class struggle
+- inflammatory
+	- worker deprived of the wealth he had himself created
+	- state a committee of the bourgeoisie for the exploitation of the people
+		- religion drug to keep the worker quietly dreaming
+		- worker's family prostituted and brutalized by the bourgeoisie
+		- uprooted worker should only by loyal to his own class
+		- country meaningless
+
+subsistence theory of wages./Iron Law , derived from British political economy
+- average worker would never obtain more than a minimum level of living
+
+labor theory of value
+- value of any man-made object depended ultimately on the amount of labor put into it
+- capital was the stored up labor of former times
+- doctrine of surplus value: workers were being robbed, the difference between wages and value were expropriated by the bourgeois capitalists
+- capitalism menaced by overproduction because people couldn't afford to buy
+- evidence: depression of 1847
+
+dialectical materialism
+- all change comes through the clash of antagonistic elements because all things are in movement and evolution
+- all history is necessary, logical, and deterministic (like Hegel)
+- Hegel emphasized the primacy of ideas in social change, while Marx emphasized the primacy of material conditions, or the relations of production
+
+material conditions give rise to economic classes
+- agrarian conditions produce a landholding/feudal class 
+- with increases in trade routes, money, and productive techniques, a new commercial/bourgeois class arises
+- each class develops an ideology to suit its needs
+- prevailing religions, governments, laws, and morals reflect the outlook of these classes
+- the two classes inevitably clash
+- bourgeois revolutions against feudal interests break out
+- as the bourgeois class develops, it calls its dialectical antithesis into being, the proletariat 
+- ultimately, the proletarianized mass takes over from the bourgeois, abolishing the old private property in the means of production
+- the social revolution is thus accomplished and a classless society results because economic differences have disappeared, hence classes have nothing to rise from
+- "dictatorship of the proletariat" until the danger of counterrevolution has been overcome, then the state will "wither away"
+- call to war because the bourgeois and the proletarian are locked in a universal struggle
+- it is a betrayal of their class for workers to rise above the proletariat
+- law is the will of the stronger; law/morals are bourgeois law, government, and morals
+
+## The Appeal of Marxism: Its Strength and Weaknesses
+
+strengths:
+- claim to be scientific and nonutopian
+-  strong compound of the scientific, historical, metaphysical, and apocalyptic
+
+weaknesses:
+- working people hesitated to sacrifice everything for the distant prospect of a class revolution
+- not exclusively class-people; religion, old customs, national loyalties
+
+"cure" for the revolutionism of 1884:
+- greater rights and conditions for laboring classes
+- wages rose, labor unions organized, workingman had a vote
