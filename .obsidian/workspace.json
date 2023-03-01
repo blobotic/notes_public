@@ -25,7 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/7_motivation.md",
+                "file": "european_history/7_revolutions_and_isms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c9fb9ab4d64e867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "european_history/0_summative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "503c00fcedea1395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "psychology/2_research_methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60ed231f3b70d9b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/7_motivation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/7_motivation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/7_motivation.md"
+                "file": "README.md"
               }
             }
           }
@@ -171,17 +207,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f505f91f7b2ab4e7",
+  "active": "60ed231f3b70d9b7",
   "lastOpenFiles": [
-    "psychology/5_cognition.md",
-    "psychology/7_motivation.md",
+    "psychology/README.md",
+    "european_history/README.md",
+    "psychology/2_research_methods.md",
+    "european_history/0_summative.md",
+    "european_history/8_nation_building_and_imperialism.md",
     "european_history/7_revolutions_and_isms.md",
+    "european_history/4_religious_warfare_and_state_building.md",
+    "european_history/1_early_modern_medieval_europe.md",
+    "psychology/7_motivation.md",
+    "psychology/5_cognition.md",
     "european_history/6_french_revolution.md",
     "psychology/3_neuroscience.md",
-    "european_history/1_early_modern_medieval_europe.md",
     "psychology/1_history_and_approaches.md",
     "psychology/1_notes.md",
-    "psychology/2_research_methods.md",
     "european_history/5_scientific_revolution_and_enlightenment.md"
   ]
 }
