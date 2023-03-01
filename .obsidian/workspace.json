@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "european_history/8_nation_building_and_imperialism.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "european_history/8_nation_building_and_imperialism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "european_history/8_nation_building_and_imperialism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "european_history/8_nation_building_and_imperialism.md"
               }
             }
           }
@@ -209,12 +209,13 @@
   },
   "active": "60ed231f3b70d9b7",
   "lastOpenFiles": [
+    "european_history/7_revolutions_and_isms.md",
+    "european_history/8_nation_building_and_imperialism.md",
+    "README.md",
     "psychology/README.md",
     "european_history/README.md",
     "psychology/2_research_methods.md",
     "european_history/0_summative.md",
-    "european_history/8_nation_building_and_imperialism.md",
-    "european_history/7_revolutions_and_isms.md",
     "european_history/4_religious_warfare_and_state_building.md",
     "european_history/1_early_modern_medieval_europe.md",
     "psychology/7_motivation.md",

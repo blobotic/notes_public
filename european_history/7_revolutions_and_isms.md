@@ -5,7 +5,7 @@ The Industrial Revolution is the process of shifting from hand tools to power ma
 People are habitually conservative
 - the shifting to the modern machine of production requires a certain mobility of people and of wealth
 	- Soviet Union: mobility produced by state planning
-	- England: consequence of a long historical develpment
+	- England: consequence of a long historical development
 
 ## The Agricultural Revolution in Britain
 
