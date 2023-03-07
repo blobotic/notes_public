@@ -9,7 +9,7 @@ Napoleon III understood the importance of public opinion and that France (and Eu
 	- he would stand above classes and would govern equally in the interests of all
 	- held that forms of government were less important than economic and social realities
 
-political institutions hence authoritariant
+political institutions hence authoritarian
 - modeled on Consulate of Napoleon I
 - Council of State 
 	- experts drafted legislation and advised on technical matters
@@ -329,13 +329,289 @@ the consolidation of Germany reversed both the Peace of Vienna as well as the Pe
 
 
 
-# 66
+# 66. The Dual Monarchy of Austria-Hungary
 
-# 67
+## The Habsburg Empire after 1848
 
-# 75
+Essential question: how would the Habsburg government react tot the problems raised by national self-expression?
+- only extreme radicals dreamed of independent Hungary; most didn't wish to destroy the empire
+- instead, desired constitutional autonomy fir Hungary while maintaining the link with Austria
+	- Slav opinion = Austroslavism
+	- people thought the empire's underlying political structure necessary
 
-# 78
+Francis Joseph (reigned 1848-1916)
+- disliked everything liberal, progressive, or modern
+- allied with the Catholic hierarchy and the Vatican
+- utterly incapable of enlarged views, arduous ambitious projects, bold decisions, or persevering action
+- government tried and failed at various expedients
+	- for several years, the ruling idea was centralization (ruling empire through German language and German efficiency), which the Mgayars hated
+
+## The Compromise of 1867
+
+1867: the *Ausgleich*, a bargain between the Germans of Austria-Bohemia and the Magyars of Hungary
+- worked to the common disadvantage of Slavs because both Germans and Magyars looked upon them as uncouth and uncivilized, barbarians
+- idea: each people (Germans and Magyars) should govern its own barbarians in its own way
+- created a Dual Monarchy (Empire of Austria and the Kingdom of Hungary, now judged equal)
+	- each had its own constitution and parliament
+	- administrative language of Austria: German, of Hungary: Magyar
+	- neither state would interfere in the other's affairs
+	- union: 
+		- same Habsburg ruler should be emperor in Austria and king in Hungary
+		- two parliaments were to meet together alternately in Vienna and Budapest
+		- common ministry for finance, foreign affairs, and war
+- treated Austria as a German nation-state and Hungary as a Magyar nation-state
+- problem: Germans and Magyars were not the majority of the population in either nation-state
+
+owners of the great landed estates remained the unquestionably dominant class
+- landless peasants
+- agrarian proletariat
+
+nationality and social questions came together; landlordism became the basic social issue
+
+# 67. Liberalization in Tsarist Russia: Alexander II
+
+## Tsarist Russia after 1856
+
+Russia's differences:
+- leading institution was the autocracy of the tsar, different from the absolutism of the West
+- some ideas didn't exist/were imported from Europe:
+	- spiritual authority independent of even the mightiest prince
+	- reciprocal duties between king and subject
+- tsardom ruled by police action and the army, not by law
+
+as Russia came into more contact with Europe, Russians began to acquire European ideas that the autocracy disliked—fraternity, liberty, of a just and classless society, etc
+
+press and universities were severely censored
+
+second fundamental institution: serfdom
+- bulk of the population were serfs dependent on masters
+- by the mid 19th century, both conservative and liberal Russians agreed that serfdom must some day end
+	- ceased to be profitable
+	- 2/3 of all privately owned serfs were mortgaged as security for loans at the time of Alexander II's accession
+	- serfdom recognized as a bad system
+		- made muzhiks into illiterate and stolid dredges, without incentive, initiative, self-respect, or pride of workmanship
+		- poor soldiers for the army
+
+educated Russians, full of Western ideas, were estranged from the government, the Orthodox church, and the common people of their country
+- "intelligentsia" - exciting to be educated, to have ideas, etc
+- made up of students, university graduates, and people with enough leisure to read
+- believed intellectuals should play a large role in society
+- heavy opposition: turning to revolutionary and even terroristic philosophies
+- made bureaucrats more anxious and fearful, and the government more repressive
+
+## The Emancipation Act of 1861 and Other Reforms
+
+Alexander II attempted to enlist the support of the liberals among the intelligentsia
+- gave permission to travel outside of Russia
+- eased controls on universities
+- allowed censorship to go relatively unenforced
+- newspapers and journals founded
+
+outburst on public opinion that agreed on the necessity of emancipating the peasants
+- NOT a class question; his father, Nicholas I, despite abhorring liberalism, had taken measures to alleviate serfdom
+- Alexander II set up a special branch of the government to study the question
+- imperial ukase of 1861: declared serfdom abolished and the peasants free
+	- allocated half of cultivated land to gentry and other half to serfs
+- people hoped the peasants would be stirred by a new sense of human dignity
+- strengthened aristocrats because much property was about to be mortgaged anyway, and they received redemption money and were free of obligations to peasants
+- peasants land, when redeemed, became the collective property of the ancient peasant village assembly *mir* -> peasants became restricted in villages as they had once been restricted by their lords
+
+Alexander II overhauled and westernized the legal system of the country
+- edit of 1864:
+	- trials public
+	- private persons have the right to be represented in court by lawyers of their own choosing
+	- all class distinctions in judicial matters were abolished (although in practice peasants continued to be subject to harsh disadvantages)
+	- clear sequence of lower and higher courts established
+	- requirements for professional training of judges
+	- system of juries introduced
+
+hoping to win liberals and to shoulder the upper and middle classes with some degree of public responsibility, Alexander also moved toward allowing self-government
+- edit of 1864L 
+	- created system of elected provincial and district councils (zemstvos)
+		- managed education, medical relief, public welfare, food supply, and road maintenance in their localities
+		- developed civic sentiment among those who took part in them
+- liberals urged a representative body; Alexander II refused
+- Poland rebellion in 1863 inclined him to favor repression more
+
+## Revolutionism in Russia
+
+revolutionaries dissatisfied with the reforms, which if successful would merely strengthen the existing order
+- "nihilists"; believed in nothing except science and took a cynical view of the reforming tsar and his zemstvos
+- peasants remained unsatisfied (heavy redemption payments)
+- intellectuals fanned this discontent
+
+socialists came to believe that the natural future of socialism lay in Russia because of the weakness of capitalism and the existence of a kind of collectivism already established in village assemblies or communes
+
+anarchist Bakunin and his disciple Nechaiev
+- *People's Justice* - called for terrorism against tsarist officials and liberals
+- *Catachism of a Revolutionist*
+- but terrorism was largely rejected by many revolutionaries
+- some groups organized secret terroristic societies, like the People's Will
+
+alarmed, and to rally support from the liberals, in 1880, he relaxed the autocratic system again
+- abolished the Third Section (secret police) set up by his father
+- allowed press to discuss most political subjects freely
+- encouraged the zemstvos to do the same
+- proposed two nationally elected commissions to sit with the council of state 
+	- signed this edict on March 13, 1881 and was at the same date assassinated by the members of the People's Will
+
+# 75. The Advance of Democracy: Socialism and Labor Unions
+
+artisan and laboring classes never viewed capitalism or "bourgeois" liberalism favorably
+
+to improve their position, they resorted to two principal lines of action:
+1. abolish the capitalists (socialism)
+2. bargain with them (formation of labor unions so that the workers had reason to keep their employers prosperously in business in order that bargaining with them might produce more results)
+- internal contradiction in the working-class movement
+	- the middle-class and educated "intellectuals" of the movement tended more to socialism because they thought of society as a whole and saw the economic system as a system
+	- actual workers tended to unions and looked on the intellectual as an outsider
+
+## The Trade Union Movement and Rise of British Labor
+
+rise rise of "bourgeois" liberalism first gave legal freedom to labor unions despite being insensitive to the worker in most ways
+- prosperity of the 1850s favored the formation of unions because workers organize most easily when employers are most in need of their services
+
+craft union: most successful of "new model" unionism introduced in England by the Amalgamated Society of Engineers in 1851
+- took unions out of politics
+- concentrate on advancing the interests of each separate trade
+- be reasonable with employers, avoid strikes, accumulate union funds, and build up membership
+- successful
+
+industrial unionism (joining in one union of all workers in one industry) began to take shape in the 1880s
+- due to their advances in trade unionism, they were much slower than their Continental counterparts in forming a workers'political party, and when it came into existence, it was less socialistic
+- Taff Vale decision: held a union ifinancially responsible for business losses incurred by an employer during a strike
+	- threatened unions, unifying them and precipitated the formation of the modern Labour party
+	- election of 1906: new Labour party sent 29 members to Parliament and overruled the Taff Vale decision by new legislation
+
+## European Socialism after 1850
+
+1864: first meeting of the International Working Men's Association in London, aka the First International
+- amongst the sponsors included the secretary of the British carpenters' union, Robert Applegarth, the aging Italian revolutionary, Mazzini, and KArl Marx
+- leadership gradually passed to MArx as union officials became absorbed in union business
+- Marx abhorred anarchism because he thought that the target of action should be not the state but the capitalist economic system; the government was merely a tool
+- he ostracized others and drove them out from the International
+
+Paris Commune of 1871
+- members of the First International watched it with great excitement
+- after Marx praised it as a stage in the international class war, he scared possible followers away and the First International disappeared by 1872
+
+after 1875, several socialist parties formed in Germany, Belgium, France, and Russia
+
+1889: socialist parties came together to establish the Second International, which thereafter met every three years and lasted until 1914
+
+## Revisionist and Revolutionary Socialism, 1880-1914
+
+new socialist parties of the 1880s were all MArxist in inspiration; Marx died in 1883 - "scientific socialism"
+- strongest in Germany and France
+- unsuccessful in Italy and Spain, where the working class, less industrialized and illiterate, turned more to anarchism
+- unsuccessful in England because they believed that socialism was the social and economic counterpart to political democracy and its eventual outcome
+	- no class conflict necessary or existed
+	- Fabians
+
+Marxist/Social Democratic parties grew rapidly
+- Marxism turned into a less revolutionary "parliamentry socialism" exceppt for the Russian Social Democratic Party
+- increased importance of union officials because true workers and not just intellectuals were voting for socialist candidates, so they worked mainly for their own individual benefits in their own country rather than internationally
+- Marx's anticipations still hadn't come true: bourgeois was getting richer but the proletarian was not getting poorer
+
+in vain, the Second International warned its component socialist parties against collaboration with the bourgeoisie
+
+1890s: Marxism began to undergo a movement of revisionism, led by JEan JAurès in France and by Eduard Bernstein in Germany
+- class conflict might not be absolutely inevitable, capitalism might be gradually gtransformed in the workers' interest
+- with the right to vote, workers could obtain their ends through democratic channels
+- most socialists/social democrats followed the revisionists
+
+tendency to "opportunism" drove the truly revolutionary spirits into new directions
+- revolutionary syndicalism, from *syndicat* - union
+	- idea that the workers' unions might themselves become supreme authoritative institutions in society, replacing property, the market economy, and government itself
+	- means to this end was a stupendous general strike to paralyze society into forcing it to accept their will
+	- most headway where unions were the wakest because the unions had the least to lose and needed sensational doctrines to attract members the most
+- revival of Marxist fundamentals in protest against revisionism
+	- condemned socialists who had entered the government (unpardonably identifying themselves with the enemy bourgeois state)
+
+in general, by the turn of the century, most people who called themselves Marxists were no logner actively revolutionary
+
+social agitation from 1848 had subsided, three principal reasons:
+1. capitalism had worked well enough to raise the workers' living standard above what they could remember of their fathers' and grandfathers' 
+2. workers had the vote and could participate in the state, thus could expect to benefit from the government and had little to gain by its overthrow
+3. they had their interests watched over by organized and increasingly powerful unions so that they could demand a larger share in the national income
+
+
+# 78. Imperialism: Its Nature and Causes
+
+for sixty years after 1815 there were no significant colonial rivalries and an indifference to overseas empires, thought unnecessary to exercise political influence in areas in which one did business
+
+## The New Imperialism
+
+old colonialism: older empires had been maritime and mercantile; European traders
+
+Europeans were no longer content simply by purchasing what local merchants offered
+- wanted goods at a quantity that preindustrial handicraft methods couldn't supply
+- moved into "backward" countries, investing capital 
+- transformed large elements of the local population into the wage employees of foreign aowners and introduced the class problems of industrial Europe in a form accentuated by racial difference
+- lent money to non-European rulers to support their thrones
+	- developed huge financial stake in governments and economic enterprises outside Western civilization
+
+now, Europeans aspired to political and territorial domination
+- some became outright "colonies", governed by white men
+- others became "protectorates", where they maintained the native ruler and guaranteed against internal upheaval or external conquest
+- in regions where no single European state could make good its claims against the others, they divided the country into "spheres of influence", where each country had advisory privileges and investment and trade opportunities within its own sphere
+
+about 1875, as Europe was growing more industrialized, civilized, and wealthy, all the principal non-European empires were in decay, receiving a minimum of support from their own subjects
+- usually a mere show of force was sufficient for whites to impose their will
+	- a garrison of only 75,000 white troops held India for the British
+	- sporadic little wars constantly fought (Afghan wars, Burmese wars, Zulu wars)
+	- Spanish-American War of 1898 and the Boer War of 1899
+	- shadow of naval strength was enough
+
+## Incentives and Motives 
+
+Europeans couldn't maintain their style of life without plundering from the rest of the world
+- required material goods, many of which only tropical regions could supply (ex. tea, coffee, cotton, rubber, petroleum, jute, coconut tree)
+
+Catholic and Protestant groups sent missionaries to increasingly remote regions
+
+Science required scientific expeditions for geographical, botanical, zoological, mineral, astronomical, or meteorological discoveries, 
+
+Wealthy people traveled more, hunted tigers and elephants, etc
+
+Industrial countries attempted to sell their own products - needed new markets
+- neomercantilism: create a large self-sufficient trading unit
+
+financial considerations: money invested in "backward" countries yielded a higher rate of return
+- cheap labor, heavy and unsatisfied demand for non-European products, greater risk of losses 
+
+J. A. Hobson, English socialist, wrote an influential book on imperialism in 1903
+- if more of the national income went to workers as wages and less of it to  capitalists, there would be no surplus of capital and no real imperialism, and the working class would have more purchasing power and not need to look for new markets outside the country
+- somewhat doubtful analysis; Europe's need for imports was more basic than capitalists' pressures to invest abroad
+Lenin, *Imperialism, the Highest Stage of World CApitalism*, written in 1916
+
+additionally, French investors had in 1914 a huge stake in the Russian empire, lending over $2 billion, more than to all colonial regions combined
+- government urged French banks to buy Russian bonds
+- aimed to make a profit for bankers and savers as well as to build up and hold together a military ally against Germany
+
+Britain and Chamberlain: municipal socialism, including public ownership of utilities
+- preached Britain's need for a "great self-sustaining and self-protecting empire" in an age of rising international competition
+- saw with misgivings the tendencies toward independence in Canada, New Zealand, and the Australian Commonwealth
+	- favored complete self-government but hoped that they would reknit their ties with each other and Great Britain once assured of their independence
+- "imperial federation" - Britain and its dominions should pool resources not only for military defense but also for economic well-being
+
+workers in western Europe likely benefited from imperialism
+- Marxists thought this unfortunate because it made the proletariat opportunistic and unrevolutionary
+
+specious argument: that European countries must acquire colonies to which surplus population could migrate without altogether abandoning the native land
+- seemed unfortunate that so many Germans or Italians had emigrated to the US
+- no European country after 1870 acquired any colony to which European families in any numbers wished to move
+
+to keep balance amongst themselves, there was a scramble for colonies and territory, out of fear of other countries doing so first
+- colonies came to have value in symbolism and prestige, a sign of greatness
+
+## Imperialism as a Crusade
+
+imperialism would bring civilization and enlightened living to those who still sat in darkness - faith in "modern civilization" became a religion and imperialism was its crusade
+
+British: White Man's Burden, French: *mission civilisatrice*, Germans: diffusing *Kultur*, Americans: "blessings of Anglo-Saxon protection"
+
+Social Darwinism: white races were "fitter" than colored
 
 # 80
 
