@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "european_history/8_nation_building_and_imperialism.md",
+                "file": "psychology/7_motivation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fec7bdefa8e62684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "psychology/8_social_psychology.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "european_history/8_nation_building_and_imperialism.md",
+                "file": "psychology/8_social_psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "european_history/8_nation_building_and_imperialism.md",
+                "file": "psychology/8_social_psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "european_history/8_nation_building_and_imperialism.md"
+                "file": "psychology/8_social_psychology.md"
               }
             }
           }
@@ -207,10 +219,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60ed231f3b70d9b7",
+  "active": "fec7bdefa8e62684",
   "lastOpenFiles": [
-    "european_history/7_revolutions_and_isms.md",
+    "psychology/7_motivation.md",
+    "psychology/8_social_psychology.md",
     "european_history/8_nation_building_and_imperialism.md",
+    "european_history/7_revolutions_and_isms.md",
     "README.md",
     "psychology/README.md",
     "european_history/README.md",
@@ -218,7 +232,6 @@
     "european_history/0_summative.md",
     "european_history/4_religious_warfare_and_state_building.md",
     "european_history/1_early_modern_medieval_europe.md",
-    "psychology/7_motivation.md",
     "psychology/5_cognition.md",
     "european_history/6_french_revolution.md",
     "psychology/3_neuroscience.md",
