@@ -54,7 +54,7 @@ persuasion:
 **social loafing** - the tendency for people in a group to exert less effort when pooling their efforts toward attaining a common goal than when individually acceptable
 - ex. group projects
 
-**deinviduation** - the loss of self-awareness and self-restraint occurring in group situations that foster arousal and anonymity
+**deindividuation** - the loss of self-awareness and self-restraint occurring in group situations that foster arousal and anonymity
 - worse behavior because of increased arousal and diminished responsibility
 
 **group polarization** - the enhancement of a group's prevailing inclinations through discussion within the group
