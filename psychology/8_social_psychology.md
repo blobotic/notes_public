@@ -44,3 +44,28 @@ persuasion:
 **role** - a set of expectations (norms) about a social position, defining how those in the position ought to behave
 
 **cognitive dissonance theory** - the theory that we act to reduce the discomfort (dissonance) we feel when two of our thoughts (cognitions) are inconsistent. For example, when we become aware that our attitudes and our actions clash, we can reduce the resulting dissonance by changing our attitudes
+
+---
+
+**social facilitation** - improved performance on simple or well-learned tasks in the presence of others
+- ex. home-team advantage in sports
+- ex. crowding (comedians)
+
+**social loafing** - the tendency for people in a group to exert less effort when pooling their efforts toward attaining a common goal than when individually acceptable
+- ex. group projects
+
+**deinviduation** - the loss of self-awareness and self-restraint occurring in group situations that foster arousal and anonymity
+- worse behavior because of increased arousal and diminished responsibility
+
+**group polarization** - the enhancement of a group's prevailing inclinations through discussion within the group
+- ex. internet
+
+**groupthink** - the mode of thinking that occurs when the desire for harmony in a decision-making group overrides a realistic appraisal of alternatives
+- self-censor dissenting views
+
+**culture** - the enduring behaviors, ideas, attitudes, values, and traditions shared by a group of people and transmitted from one generation to the next.
+- preservation of innovation
+- efficient division of labor
+- each culture evolves its own social norms
+- culture shock
+- changes over time
